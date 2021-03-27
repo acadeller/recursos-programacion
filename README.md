@@ -4,6 +4,8 @@
 
 ![Acadeller - Recursos de Programación](http://i.imgur.com/5fhhRTw.png)
 
+Creado por: [Acadeller](https://github.com/Acadeller)
+
 <p align="center">
   Recopilación de recursos para desarrolladores.
 </p>
