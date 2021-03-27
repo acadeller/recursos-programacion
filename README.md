@@ -4,7 +4,7 @@
 
 ![Acadeller - Recursos de Programación](http://i.imgur.com/5fhhRTw.png)
 
-<h3 align="center">Creado por [Acadeller](https://github.com/Acadeller)</h3>
+# Creado por [Acadeller](https://github.com/Acadeller)
 <p align="center">
   Recopilación de recursos para desarrolladores.
 </p>
