@@ -4,12 +4,11 @@
 
 ![Acadeller - Recursos de Programación](http://i.imgur.com/5fhhRTw.png)
 
-Creado por: [Acadeller](https://github.com/Acadeller)
 <p align="center">
   Recopilación de recursos para desarrolladores.
 </p>
 <p align="center">
-  <a href="https://github.com/ossu/computer-science">
+  <a href="https://github.com/Acadeller/recursos-programacion">
 	<img alt="Acadeller - Recursos Programación" src="https://img.shields.io/badge/Acadeller-recursos--programaci%C3%B3n-yellow.svg">
   </a>
 </p>
