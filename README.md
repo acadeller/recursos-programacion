@@ -16,4 +16,4 @@
 
 - [Resumen](#resumen)
 - [Comunidad](#comunidad)
-- [Indice](#indice)
+- [Índice](#indice)
