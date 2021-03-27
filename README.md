@@ -25,6 +25,10 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 
 # Resumen
 
+[Acadeller](https://github.com/Acadeller) es una comunidad creada para impulsar a las personas en el mundo del desarrollo de software. Con una comunidad de más de 15.000 integrante.
+
+El objetivo de este repositorio es de recopilar la mayor cantidad posible de recursos gratuitos de programación que existan en internet, para que esten al alcance de cualquie persona en todo momento.
+
 # Comunidad
 
 - Puedes seguirnos en nuestra de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación 
