@@ -23,7 +23,7 @@
 # Comunidad
 
 - Puedes seguirnos en nuestra de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación.
-- ¡Tenemos un servidor de [Discord](https://discord.com/invite/9vvcTTC)! Aquí podras compartir tus experiencias y conocer a otros desarrolladores [Únete al Discord de Acadeller](https://discord.gg/wuytwK5s9h)
+- ¡Tenemos un servidor de Discord! [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wuytwK5s9h) Aquí podras compartir tus experiencias y conocer a otros desarrolladores [Únete al Discord de Acadeller](https://discord.gg/wuytwK5s9h)
 - No te olvides tampoco de seguirnos en nuestra cuenta de [Twitter](https://twitter.com/acadeller). 
 - También puedes ver nuestro contenido en [Linkedin](https://www.linkedin.com/company/68485158).
 
