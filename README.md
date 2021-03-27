@@ -1,4 +1,6 @@
-# recursos-programacion
+<div align="center"> 
+
+# Recursos de Programación
 
 ![Acadeller - Recursos de Programación](http://i.imgur.com/5fhhRTw.png)
 
@@ -11,6 +13,7 @@
 	<img alt="Acadeller - Recursos Programación" src="https://img.shields.io/badge/Acadeller-recursos--programaci%C3%B3n-yellow.svg">
   </a>
 </p>
+</div>
 
 # Tabla de contenidos
 
