@@ -12,7 +12,7 @@
   </a>
 </p>
 
-# Contents
+# Contenido
 
 - [Resumen](#resumen)
 - [Comunidad](#comunidad)
