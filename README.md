@@ -21,7 +21,7 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 
 - [Resumen](#resumen)
 - [Comunidad](#comunidad)
-- [Índice](#indice)
+- [Índice](#índice)
 - [Contribución](#contribucion)
 
 # Resumen
@@ -43,7 +43,7 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 
 ## JavaScript
 
-**[⬆ Volver al índice](#indice)**
+**[⬆ Volver al índice](#índice)**
 
 # Contribución
 -
@@ -51,5 +51,12 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 -
 -
 -ç
+--
 -
+-
+-
+---
+--
+-
+
 
