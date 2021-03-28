@@ -82,6 +82,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Eloquent JavaScript | Libro introductorio de JavaScript | Libro | Inglés | Sí | [Link](https://eloquentjavascript.net/) |
+| JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 
 
 **[⬆ Volver al índice](#índice)**
