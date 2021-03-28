@@ -44,8 +44,10 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [C](#c)
 * [C#](#c#)
 * [C++](#c++)
+* [Css](#css)
 * [Dart](#dart)
 * [Go](#go)
+* [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
@@ -63,9 +65,13 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 ## C++
 
+## Css
+
 ## Dart
 
 ## Go
+
+## HTML
 
 ## Java
 
