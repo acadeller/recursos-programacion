@@ -37,7 +37,7 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 - No te olvides tampoco de seguirnos en nuestra cuenta de [Twitter](https://twitter.com/acadeller). 
 - También puedes ver nuestro contenido en [Linkedin](https://www.linkedin.com/company/68485158).
 
-# Índice
+# Indice
 
 * [JavaScript](#javascript)
 
