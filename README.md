@@ -79,16 +79,10 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 ### Vanilla
 
-Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
-|---|---|---|---|---|---|
-| [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) | Anime discovery & tracking | `OAuth` | Yes | Unknown |
-| [AnimeChan](https://github.com/RocktimSaikia/anime-chan) | Anime quotes (over 10k+) | No | Yes | No |
-| [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news | No | Yes | Yes |
-| [Jikan](https://jikan.moe) | Unofficial MyAnimeList API | No | Yes | Yes |
-| [Kitsu](https://kitsu.docs.apiary.io/) | Anime discovery platform | `OAuth` | Yes | Yes |
-| [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community | `OAuth` | Yes | Unknown |
-| [Studio Ghibli](https://ghibliapi.herokuapp.com) | Resources from Studio Ghibli films | No | Yes | Yes |
-| [What Anime](https://soruly.github.io/trace.moe/) | Scan anime image to get specific detail | No | Yes | Yes |
+Nombre | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|
+| Eloquent JavaCript | Libro | Inglés | Sí | [Link](https://eloquentjavascript.net/) |
+
 
 **[⬆ Volver al índice](#índice)**
 
