@@ -39,7 +39,18 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 
 # Índice
 
+* [C](#C)
+* [C#](#Csharp)
+* [C++](#C++)
+* [Dart](#dart)
+* [Go](#go)
+* [Java](#java)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
+* [Python](#python)
+* [Ruby](#ruby)
+* [Scala](#scala)
+* [Swift](#swift)
 
 ## JavaScript
 
