@@ -79,8 +79,8 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 ### Vanilla
 
-Nombre | Descripción | Tipo | Gratuito | Link |
-|---|---|---|---|---|
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) | Anime discovery & tracking | `OAuth` | Yes | Unknown |
 | [AnimeChan](https://github.com/RocktimSaikia/anime-chan) | Anime quotes (over 10k+) | No | Yes | No |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news | No | Yes | Yes |
