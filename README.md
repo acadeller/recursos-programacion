@@ -43,7 +43,7 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 
 ## JavaScript
 
-**[⬆ Volver al índice](#indice)**
+**[⬆ Volver al índice](#Índice)**
 
 # Contribución
 
