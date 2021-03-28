@@ -79,9 +79,9 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 ### Vanilla
 
-Nombre | Tipo | Idioma | Gratuito | Link |
-|---|---|---|---|---|
-| Eloquent JavaCript | Libro | Inglés | Sí | [Link](https://eloquentjavascript.net/) |
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Eloquent JavaScript | Libro introductorio de JavaScript | Libro | Inglés | Sí | [Link](https://eloquentjavascript.net/) |
 
 
 **[⬆ Volver al índice](#índice)**
