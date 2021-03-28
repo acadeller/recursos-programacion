@@ -57,6 +57,18 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [Scala](#scala)
 * [Swift](#swift)
 
+## C
+
+## C#
+
+## C++
+
+## Dart
+
+## Go
+
+## Java
+
 ## JavaScript
 
 ### Vanilla
@@ -73,6 +85,22 @@ Nombre | Descripción | Tipo | Gratuito | Link |
 | [What Anime](https://soruly.github.io/trace.moe/) | Scan anime image to get specific detail | No | Yes | Yes |
 
 **[⬆ Volver al índice](#índice)**
+
+## Kotlin
+
+## PHP
+
+## Python
+
+## R
+
+## Ruby
+
+## Rust
+
+## Scala
+
+## Swift
 
 # Contribución
 
