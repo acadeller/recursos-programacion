@@ -82,8 +82,10 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Eloquent JavaScript | Libro introductorio de JavaScript | Libro | Inglés | Sí | [Link](https://eloquentjavascript.net/) |
+| Front End Development Libraries | Curso interactivo de librerías frontend | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/front-end-libraries/) |
 | JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 | JavaScript Algorithms and Data Structures | Curso interactivo de JavaScript | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+| JavaScript Code Examples | Ejemplos de código de JavaScript | Ejemplos | Inglés | Sí | [Link](https://freefrontend.com/javascript-code-examples/#sitemap-examples) |
 
 
 **[⬆ Volver al índice](#índice)**
