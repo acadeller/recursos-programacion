@@ -86,6 +86,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 | JavaScript Algorithms and Data Structures | Curso interactivo de JavaScript | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 | JavaScript Code Examples | Ejemplos de código de JavaScript | Ejemplos | Inglés | Sí | [Link](https://freefrontend.com/javascript-code-examples/#sitemap-examples) |
+| W3schools JavaScript Tutorial | Documentación con ejemplos de JavaScript | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/js/default.asp) |
 
 
 **[⬆ Volver al índice](#índice)**
