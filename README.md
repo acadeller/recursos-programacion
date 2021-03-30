@@ -87,7 +87,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 | JavaScript Algorithms and Data Structures | Curso interactivo de JavaScript | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 | JavaScript Code Examples | Ejemplos de código de JavaScript | Ejemplos | Inglés | Sí | [Link](https://freefrontend.com/javascript-code-examples/#sitemap-examples) |
-| JavaScript Info | Documentación muy estructurada de JavaScript | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
+| JavaScript Info | Documentación estructurada de JavaScript | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
 | Learn JavaScript - Full Course for Beginners | Tutorial de JavaScript para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org) |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
 | MDN JavaScript | Documentación de JavaScript | Documentación | Inglés | Sí | [Link](https://developer.mozilla.org/es/docs/Web/JavaScript) |
