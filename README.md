@@ -81,13 +81,16 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| Build 15 JavaScript Projects | Tutorial para crear 15 proyectos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3PHXvlpOkf4) |
+| Curso Javascript para Principiantes | Tutorial para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=RqQ1d1qEWlE&ab_channel=Fazt) |
 | David Walsh Blog | Blog de JavaScript | Blog | Inglés | Sí | [Link](https://davidwalsh.name/tutorials/javascript) |
 | Eloquent JavaScript | Libro introductorio de JavaScript | Libro | Inglés | Sí | [Link](https://eloquentjavascript.net/) |
 | Front End Development Libraries | Curso interactivo de librerías frontend | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/front-end-libraries/) |
 | JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 | JavaScript Algorithms and Data Structures | Curso interactivo de JavaScript | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 | JavaScript Code Examples | Ejemplos de código de JavaScript | Ejemplos | Inglés | Sí | [Link](https://freefrontend.com/javascript-code-examples/#sitemap-examples) |
-| JavaScript Info | Documentación estructurada de JavaScript | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
+| JavaScript Crash Course For Beginners | Tutorial corto para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia) |
+| JavaScript Info | Documentación muy estructurada | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
 | Learn JavaScript - Full Course for Beginners | Tutorial de JavaScript para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org) |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
 | MDN JavaScript | Documentación de JavaScript | Documentación | Inglés | Sí | [Link](https://developer.mozilla.org/es/docs/Web/JavaScript) |
