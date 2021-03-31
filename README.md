@@ -42,8 +42,6 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 # Índice
 
 * [C](#c)
-* [C#](#csharp)
-* [C++](#cplusplus)
 * [Css](#css)
 * [Dart](#dart)
 * [Go](#go)
@@ -61,9 +59,11 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 ## C
 
-## C#
+### C
 
-## C++
+### C++
+
+### C#
 
 ## Css
 
