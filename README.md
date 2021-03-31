@@ -61,7 +61,18 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 ### C
 
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| C Programming For Beginners | Curso de C para principiantes | Curso | Inglés | No | [Link](https://www.udemy.com/course/c-programming-for-beginners/) |
+| Learn C | Documentación de iniciación de C | Documentación | Inglés | Sí | [Link](https://www.learn-c.org/) |
+
+
 ### C++
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| C++ For C Programmers | Curso para aprender C++ sabiendo C | Curso | Inglés | Sí | [Link](https://www.coursera.org/learn/c-plus-plus-a#about) |
+| C++ Fundamentals | Curso para aprender C++ para principiantes | Curso | Inglés | No | [Link](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17) |
 
 ### C#
 
