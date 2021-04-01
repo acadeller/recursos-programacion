@@ -78,6 +78,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Console C++ | Conjunto de tutoriales de C++ | Tutorial | Inglés | sí | [Link](https://xoax.net/cpp/crs/console/index.php) |
 | cplusplus | Documentación detallada de C++ | Documentación | Inglés | sí | [Link](http://www.cplusplus.com/) |
 | Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
+| Learn C++ | Documentación de C++ para aprender el lenguaje | Documentación | Inglés | Sí | [Link](https://www.learncpp.com/) |
 | SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
 
 ### C#
