@@ -63,8 +63,10 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| C in a Nutshell | Libro para aprender C | Libro | Inglés | No | [Link](https://www.amazon.com/Nutshell-Definitive-Reference-Peter-Prinz/dp/1491904755) |
 | C Programming For Beginners | Curso de C para principiantes | Curso | Inglés | No | [Link](https://www.udemy.com/course/c-programming-for-beginners/) |
 | Learn C | Documentación de iniciación de C | Documentación | Inglés | Sí | [Link](https://www.learn-c.org/) |
+| SoloLearn C | Curso para aprender C con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1089) |
 
 
 ### C++
@@ -73,8 +75,14 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | C++ For C Programmers | Curso para aprender C++ sabiendo C | Curso | Inglés | Sí | [Link](https://www.coursera.org/learn/c-plus-plus-a#about) |
 | C++ Fundamentals | Curso para aprender C++ para principiantes | Curso | Inglés | No | [Link](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17) |
+| Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
+| SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
 
 ### C#
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| SoloLearn C# | Curso para aprender C# con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1080) |
 
 ## Css
 
