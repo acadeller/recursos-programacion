@@ -42,7 +42,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 # Índice
 
 * [C](#c)
-* [Css](#css)
+* [CSS](#css)
 * [Dart](#dart)
 * [Go](#go)
 * [HTML](#html)
@@ -75,6 +75,8 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | C++ For C Programmers | Curso para aprender C++ sabiendo C | Curso | Inglés | Sí | [Link](https://www.coursera.org/learn/c-plus-plus-a#about) |
 | C++ Fundamentals | Curso para aprender C++ para principiantes | Curso | Inglés | No | [Link](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17) |
+| Console C++ | Conjunto de tutoriales de C++ | Tutorial | Inglés | sí | [Link](https://xoax.net/cpp/crs/console/index.php) |
+| cplusplus | Documentación detallada de C++ | Documentación | Inglés | sí | [Link](http://www.cplusplus.com/) |
 | Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
 | SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
 
