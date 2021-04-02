@@ -63,8 +63,11 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| C - Empieza a programar | Lista de tutoriales para aprender C | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=wgiBStujBCw&list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF&index=3&ab_channel=EmpiezaAProgramar) |
 | C in a Nutshell | Libro para aprender C | Libro | Inglés | No | [Link](https://www.amazon.com/Nutshell-Definitive-Reference-Peter-Prinz/dp/1491904755) |
 | C Programming For Beginners | Curso de C para principiantes | Curso | Inglés | No | [Link](https://www.udemy.com/course/c-programming-for-beginners/) |
+| C Programming In One Video | Video resumen para entender la sintaxis de C | Video | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3lQEunpmtRA&ab_channel=MikeDane) |
+| C Programming Tutorial for Beginners | Tutorial para aprender C para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=KJgsSFOSQv0&ab_channel=freeCodeCamp.org) |
 | Learn C | Documentación de iniciación de C | Documentación | Inglés | Sí | [Link](https://www.learn-c.org/) |
 | SoloLearn C | Curso para aprender C con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1089) |
 
@@ -75,6 +78,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | C++ For C Programmers | Curso para aprender C++ sabiendo C | Curso | Inglés | Sí | [Link](https://www.coursera.org/learn/c-plus-plus-a#about) |
 | C++ Fundamentals | Curso para aprender C++ para principiantes | Curso | Inglés | No | [Link](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17) |
+| C++ Programming In One Video | Video resumen para entender la sintaxis de C++ | Video | Inglés | Sí | [Link](https://www.youtube.com/watch?v=raZSmcariyU&ab_channel=MikeDane) |
 | Console C++ | Conjunto de tutoriales de C++ | Tutorial | Inglés | sí | [Link](https://xoax.net/cpp/crs/console/index.php) |
 | cplusplus | Documentación detallada de C++ | Documentación | Inglés | sí | [Link](http://www.cplusplus.com/) |
 | Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
