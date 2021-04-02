@@ -32,6 +32,9 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 
 Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo de [esta manera](#contribución).
 
+https://img.shields.io/github/stars/{acadeller}/{recursos-programacion}.svg 
+https://img.shields.io/github/watchers/{acadeller}/{recursos-programacion}.svg
+
 # Comunidad
 
 - Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación 
