@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Recursos de Programación
+# 💡 Recursos de Programación 💡
 
 ![Acadeller - Recursos de Programación](http://i.imgur.com/5fhhRTw.png)
 
