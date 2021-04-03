@@ -23,7 +23,7 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 - [Resumen](#resumen)
 - [Comunidad](#comunidad)
 - [Índice](#índice)
-- [Contribución](#contribución)
+- [Contribución](#contribución 🤝)
 
 # Resumen 📖
 
