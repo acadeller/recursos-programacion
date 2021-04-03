@@ -33,7 +33,9 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 
 Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo de [esta manera](#contribución).
 
-# Comunidad 💡
+# Comunidad <a href="https://twitter.com/acadeller">
+    		<img src="https://img.shields.io/twitter/follow/acadeller?label=Follow&style=social" alt="Twitter">
+  	</a>
 
 - Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación 
 - ¡Tenemos un servidor de Discord! Aquí podras compartir tus experiencias y conocer a otros desarrolladores [Únete al Discord de Acadeller](https://discord.com/invite/9vvcTTC) <a href="https://discord.com/invite/9vvcTTC">
