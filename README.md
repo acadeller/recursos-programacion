@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# 💡 Recursos de Programación 💡
+# Recursos de Programación 
 
 ![Acadeller - Recursos de Programación](http://i.imgur.com/5fhhRTw.png)
 
@@ -18,7 +18,7 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 
 </div>
 
-# Tabla de contenidos
+# Tabla de contenidos 📌
 
 - [Resumen](#resumen)
 - [Comunidad](#comunidad)
@@ -33,7 +33,7 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 
 Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo de [esta manera](#contribución).
 
-# Comunidad 
+# Comunidad 💡
 
 - Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación 
 - ¡Tenemos un servidor de Discord! Aquí podras compartir tus experiencias y conocer a otros desarrolladores [Únete al Discord de Acadeller](https://discord.com/invite/9vvcTTC) <a href="https://discord.com/invite/9vvcTTC">
@@ -44,7 +44,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
   	</a>
 - También puedes ver nuestro contenido en [Linkedin](https://www.linkedin.com/company/68485158).
 
-# Índice
+# Índice 🗂️
 
 * [C](#c)
 * [CSS](#css)
