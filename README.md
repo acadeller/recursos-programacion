@@ -145,7 +145,9 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 # Contribución
 
-Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso para que tengo un mayor valor. Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es crear valor, no un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas. 
+Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso para que tengo un mayor valor. 
+
+Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es crear valor, no un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas. 
 
 ## ¿Cómo contribuir al repositorio?
 
@@ -154,11 +156,11 @@ Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad 
 Formato de las entradas:
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| David Walsh Blog | Blog de JavaScript | Blog | Inglés | Sí | [Link](https://davidwalsh.name/tutorials/javascript) |
+| Nombre del recurso | Descripción del recurso | Blog | Inglés | Sí | [Link](https://github.com/Acadeller/recursos-programacion) |
 
 Ejemplo de una entrada:
 ```
-| David Walsh Blog | Blog de JavaScript | Blog | Inglés | Sí | [Link](https://davidwalsh.name/tutorials/javascript) |
+| Acadeller Recursos Programación | Repositorio de recursos | Repositorio | Español | Sí | [Link](https://github.com/Acadeller/recursos-programacion) |
 ```
 
 
