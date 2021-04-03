@@ -163,4 +163,14 @@ Ejemplo de una entrada:
 | Recursos de Programación | Lista de recursos | Repositorio | Español | Sí | [Link](https://github.com/Acadeller/recursos-programacion) |
 ```
 
+Tipos de recursos permitidos:
+- Blog
+- Curso
+- Tutorial
+- Libro
+- Podcast
+- Repositorio
+
+
+
 
