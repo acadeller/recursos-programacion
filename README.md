@@ -18,7 +18,7 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 
 </div>
 
-# Tabla de contenidos 📌
+# Tabla de contenidos 💡
 
 - [Resumen](#resumen)
 - [Comunidad](#comunidad)
