@@ -24,7 +24,7 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 - [Índice](#índice)
 - [Contribución](#contribución)
 
-# Resumen
+# Resumen 📖
 
 [Acadeller](https://github.com/Acadeller) es una comunidad creada para impulsar a las personas en el mundo del desarrollo de software. Que empezó siendo una pequeña cuenta de Instagram que hacía publicaciones sobre programación. A día de hoy contamos con más de 15.000 seguidores en nuestras redes sociales, pero nuestro objetivo sigue siendo el mismo: ***ayudar a a la gente a aprender programación.***
 
@@ -32,11 +32,13 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 
 Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo de [esta manera](#contribución).
 
-# Comunidad
+# Comunidad 💡
 
 - Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación 
 - ¡Tenemos un servidor de Discord! [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/9vvcTTC) Aquí podras compartir tus experiencias y conocer a otros desarrolladores [Únete al Discord de Acadeller](https://discord.com/invite/9vvcTTC)
-- No te olvides tampoco de seguirnos en nuestra cuenta de [Twitter](https://twitter.com/acadeller). 
+- No te olvides tampoco de seguirnos en nuestra cuenta de [Twitter](https://twitter.com/acadeller). <a href="https://twitter.com/acadeller">
+    <img src="https://img.shields.io/twitter/follow/acadeller?label=Follow&style=social" alt="Twitter">
+  </a>
 - También puedes ver nuestro contenido en [Linkedin](https://www.linkedin.com/company/68485158).
 
 # Índice
@@ -143,7 +145,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 ## Swift
 
-# Contribución
+# Contribución 🤝
 
 Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor. 
 
