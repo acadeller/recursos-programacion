@@ -12,12 +12,11 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 <p align="center">
   <a href="https://github.com/Acadeller/recursos-programacion">
 	<img alt="Acadeller - Recursos Programación" src="https://img.shields.io/badge/Acadeller-recursos--programaci%C3%B3n-yellow.svg">
-	 <br>
 	 <a href="https://twitter.com/acadeller">
     		<img src="https://img.shields.io/twitter/follow/acadeller?label=Follow&style=social" alt="Twitter">
   	</a>
 	 <a href="https://discord.com/invite/9vvcTTC">
-    		<img src="https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
+    		<img src="https://img.shields.io/discord/715323337240477707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
   	</a>
  </a>
 </p>
