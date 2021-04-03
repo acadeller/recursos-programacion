@@ -145,7 +145,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 # Contribución
 
-Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso para que tengo un mayor valor. 
+Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor. 
 
 Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es crear valor, no un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas. 
 
