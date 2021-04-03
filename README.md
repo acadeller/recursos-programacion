@@ -18,7 +18,7 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 
 </div>
 
-# Tabla de contenidos 
+# Tabla de contenidos 📌
 
 - [Resumen](#resumen)
 - [Comunidad](#comunidad)
@@ -160,7 +160,7 @@ Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad 
 
 Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es aportar a la comunidad, no hacer un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas. 
 
-## ¿Cómo contribuir al repositorio?
+## ¿Cómo contribuir al repositorio? 🤝
 
 ### Formato
 
