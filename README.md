@@ -153,6 +153,8 @@ Cabe destacar que este repositorio NO es una herramienta de marketing, el objeti
 
 ### Formato
 
+Los recursos se añaden a las tablas correspondientes mediante entradas (estas entradas se deben introducir en orden alfabético).
+
 Formato de las entradas:
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
@@ -171,6 +173,15 @@ Tipos de recursos permitidos:
 - Podcast
 - Repositorio
 
+### Instrucciones para hacer la contribución
+
+Pasos:
+1. Crear un "fork" del repositorio.
+2. Realizar los cambios (agregar entradas).
+3. Crear una branch.
+4. Hacer una "pull request" a nuestro repositorio.
+
+Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar los cambios propuestos y decidir si incorporarlos o no.
 
 
 
