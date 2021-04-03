@@ -22,8 +22,8 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 
 - [Resumen](#resumen)
 - [Comunidad](#comunidad)
-- [Índice](#índice Card Index Dividers)
-- [Contribución](#contribución 🤝)
+- [Índice](#índice-Card Index Dividers)
+- [Contribución](#contribución-🤝)
 
 # Resumen 📖
 
