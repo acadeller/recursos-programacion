@@ -173,7 +173,7 @@ Tipos de recursos permitidos:
 - Podcast
 - Repositorio
 
-### Instrucciones para hacer la contribución
+## Instrucciones para hacer la contribución
 
 Pasos:
 1. Crear un "fork" del repositorio.
