@@ -156,11 +156,11 @@ Cabe destacar que este repositorio NO es una herramienta de marketing, el objeti
 Formato de las entradas:
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| Nombre del recurso | Descripción del recurso | Blog | Inglés | Sí | [Link](https://github.com/Acadeller/recursos-programacion) |
+| Nombre del recurso | Descripción del recurso | Tipo de Recurso | Idioma | Gratis (sí/no) | [Link](https://github.com/Acadeller/recursos-programacion) |
 
 Ejemplo de una entrada:
 ```
-| Acadeller Recursos Programación | Repositorio de recursos | Repositorio | Español | Sí | [Link](https://github.com/Acadeller/recursos-programacion) |
+| Recursos de Programación | Lista de recursos | Repositorio | Español | Sí | [Link](https://github.com/Acadeller/recursos-programacion) |
 ```
 
 
