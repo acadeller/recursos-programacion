@@ -175,7 +175,7 @@ Tipos de recursos permitidos:
 
 ## Instrucciones para hacer la contribución
 
-Pasos:
+Pasos a seguir para realizar una contribución:
 1. Crear un "fork" del repositorio.
 2. Realizar los cambios (agregar entradas).
 3. Crear una branch.
