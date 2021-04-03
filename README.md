@@ -12,7 +12,11 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 <p align="center">
   <a href="https://github.com/Acadeller/recursos-programacion">
 	<img alt="Acadeller - Recursos Programación" src="https://img.shields.io/badge/Acadeller-recursos--programaci%C3%B3n-yellow.svg">
-  </a>
+	 <br>
+	 <a href="https://twitter.com/acadeller">
+    		<img src="https://img.shields.io/twitter/follow/acadeller?label=Follow&style=social" alt="Twitter">
+  	</a>
+ </a>
 </p>
 
 </div>
@@ -36,8 +40,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 - Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación 
 - ¡Tenemos un servidor de Discord! [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/9vvcTTC) Aquí podras compartir tus experiencias y conocer a otros desarrolladores [Únete al Discord de Acadeller](https://discord.com/invite/9vvcTTC)
-- No te olvides tampoco de seguirnos en nuestra cuenta de [Twitter](https://twitter.com/acadeller). <a href="https://twitter.com/acadeller">
-    <img src="https://img.shields.io/twitter/follow/acadeller?label=Follow&style=social" alt="Twitter">
+- No te olvides tampoco de seguirnos en nuestra cuenta de [Twitter](https://twitter.com/acadeller).
   </a>
 - También puedes ver nuestro contenido en [Linkedin](https://www.linkedin.com/company/68485158).
 
