@@ -189,8 +189,7 @@ Tipos de recursos permitidos:
 Pasos a seguir para realizar una contribución:
 1. Crear un "fork" del repositorio.
 2. Realizar los cambios (agregar entradas).
-3. Crear una branch.
-4. Hacer una "pull request" a nuestro repositorio.
+3. Hacer una "pull request" a nuestro repositorio.
 
 Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar los cambios propuestos y decidir si incorporarlos o no.
 
