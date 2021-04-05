@@ -162,7 +162,11 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| C - Empieza a programar | Lista de tutoriales para aprender C | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=wgiBStujBCw&list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF&index=3&ab_channel=EmpiezaAProgramar) |
+| Alligator.io Vue posts | Publicaciones de Vue | Blog | Inglés | Sí | [Link](https://alligator.io/vuejs/?ref=java5cript.com) |
+| The Vue Handbook | Libro para aprender Vue desde cero | Libro | Inglés | Sí | [Link](https://vuehandbook.com/?ref=java5cript.com) |
+| The Vue Tutorial for 2018 | Tutorial breve y conciso para entender Vue | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=78tNYZUS-ps&list=WL&index=12&t=4s&ab_channel=DesignCourse) |
+| Vue Crash Course 2021 | Tutorial de Vue para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=qZXt1Aom3Cs&ab_channel=TraversyMedia) |
+| Vue.js Docs | Documentación oficial de Vue | Documentación | Inglés | Sí | [Link](https://v3.vuejs.org/guide/introduction.html?ref=java5cript.com) |
 
 **[⬆ Volver al índice](#índice)**
 
