@@ -138,6 +138,34 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 **[⬆ Volver al índice](#índice)**
 
+
+### Angular
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| C - Empieza a programar | Lista de tutoriales para aprender C | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=wgiBStujBCw&list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF&index=3&ab_channel=EmpiezaAProgramar) |
+
+**[⬆ Volver al índice](#índice)**
+
+### React
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| React Book by Soft Chris | Libro de React en un repositorio de Github | Libro | Inglés | Sí | [Link](https://github.com/softchris/react-book?ref=java5cript.com) |
+| React Enlightenment | Aprende React como si fuera una receta | Libro | Inglés | Sí | [Link](https://www.reactenlightenment.com/) |
+| Reintroducing React | Libro de React con toque humorístico | Libro | Inglés | Sí | [Link](https://leanpub.com/reintroducing-react?ref=java5cript.com) |
+| The React Beginner's Handbook | Libro de React para principiantes | Libro | Inglés | Sí | [Link](https://flaviocopes.com/page/react-handbook/?ref=java5cript.com) |
+
+**[⬆ Volver al índice](#índice)**
+
+### Vue
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| C - Empieza a programar | Lista de tutoriales para aprender C | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=wgiBStujBCw&list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF&index=3&ab_channel=EmpiezaAProgramar) |
+
+**[⬆ Volver al índice](#índice)**
+
 ## Kotlin
 
 ## PHP
