@@ -143,7 +143,9 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| C - Empieza a programar | Lista de tutoriales para aprender C | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=wgiBStujBCw&list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF&index=3&ab_channel=EmpiezaAProgramar) |
+| Angular Crash Course | Tutorial de Angular para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=Fdf5aTYRW0E&ab_channel=TraversyMedia) |
+| Angular Docs | Documentación oficial de Angular | Documentación | Inglés | Sí | [Link](https://angular.io/docs) |
+| Learn Angular 8 from Scratch for Beginners | Tutorial de menos de una hora para entender Angular | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=_TLhUCjY9iA&t=2484s&ab_channel=DesignCourse) |
 
 **[⬆ Volver al índice](#índice)**
 
