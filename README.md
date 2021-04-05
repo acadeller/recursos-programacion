@@ -193,5 +193,9 @@ Pasos a seguir para realizar una contribución:
 
 Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar los cambios propuestos y decidir si incorporarlos o no.
 
+## Contribuidores 🏆
+
+* [César Álvarez Llaneza](https://github.com/cesaralvrz): Fundador de Acadeller.
+
 
 
