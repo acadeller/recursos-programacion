@@ -100,6 +100,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| Curso C# Píldores Informáticas | Lista de Repoducción del Curso de C# de Píldoras Informáticas | Curso | Español | Sí | [Link](https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&ab_channel=pildorasinformaticas) |
 | SoloLearn C# | Curso para aprender C# con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1080) |
 
 **[⬆ Volver al índice](#índice)**
