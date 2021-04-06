@@ -60,6 +60,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
+* [SQL](#sql)
 * [Swift](#swift)
 
 ## C
@@ -100,7 +101,10 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| Curso C# Píldores Informáticas | Lista de Repoducción del Curso de C# de Píldoras Informáticas | Curso | Español | Sí | [Link](https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&ab_channel=pildorasinformaticas) |
+| Build a C# .NET Application in 60 Minutes | Tutorial para crear una aplicación .NET | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=GcFJjpMFJvI&ab_channel=TraversyMedia) |
+| C# Tutorial | Tutorial de C# de 4 horas y media | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org) |
+| C# App in One Hour | Tutorial para crear una aplicación de C#| Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org) |
+| Curso C# Píldoras Informáticas | Lista de Repoducción del Curso de C# de Píldoras Informáticas | Curso | Español | Sí | [Link](https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&ab_channel=pildorasinformaticas) |
 | SoloLearn C# | Curso para aprender C# con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1080) |
 
 **[⬆ Volver al índice](#índice)**
@@ -186,6 +190,8 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 ## Rust
 
 ## Scala
+
+## SQL
 
 ## Swift
 
