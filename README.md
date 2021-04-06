@@ -106,6 +106,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | C# App in One Hour | Tutorial para crear una aplicación de C# | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org) |
 | C# Cheatsheet | Cheatsheet de C# | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/C%23.txt) |
 | C# Tutorial | Tutorial de C# de 4 horas y media | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org) |
+| C# Ya | Documentación paso a paso de C# | Documentación | Español | Sí | [Link](https://www.tutorialesprogramacionya.com/csharpya/) |
 | Curso C# Píldoras Informáticas | Lista de Repoducción del Curso de C# de Píldoras Informáticas | Curso | Español | Sí | [Link](https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&ab_channel=pildorasinformaticas) |
 | Documentación C# | Documentación oficial de C# | Documentación | Español | Sí | [Link](https://docs.microsoft.com/es-es/dotnet/csharp/) |
 | SoloLearn C# | Curso para aprender C# con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1080) |
@@ -123,6 +124,8 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | HTML Cheatsheet | Cheatsheet de HTML | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html) |
+
+**[⬆ Volver al índice](#índice)**
 
 ## Java
 
@@ -167,9 +170,13 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| Level Up Your React Skills | Tutoriales de React | Blog | Inglés | Sí | [Link](https://upmostly.com/?ref=java5cript.com) |
+| Overreacted | Blog de React | Blog | Inglés | Sí | [Link](https://overreacted.io/?ref=java5cript.com) |
 | React Book by Soft Chris | Libro de React en un repositorio de Github | Libro | Inglés | Sí | [Link](https://github.com/softchris/react-book?ref=java5cript.com) |
 | React Cheatsheet | Cheatsheet de React | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js) |
+| React Docs | Documentación oficial de React | Documentación | Inglés | Sí | [Link](https://reactjs.org/docs/getting-started.html?ref=java5cript.com) |
 | React Enlightenment | Aprende React como si fuera una receta | Libro | Inglés | Sí | [Link](https://www.reactenlightenment.com/) |
+| React Guide | Guía de React | Documentación | Inglés | Sí | [Link](https://web.dev/react/?ref=java5cript.com) |
 | Reintroducing React | Libro de React con toque humorístico | Libro | Inglés | Sí | [Link](https://leanpub.com/reintroducing-react?ref=java5cript.com) |
 | The React Beginner's Handbook | Libro de React para principiantes | Libro | Inglés | Sí | [Link](https://flaviocopes.com/page/react-handbook/?ref=java5cript.com) |
 
