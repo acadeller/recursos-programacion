@@ -69,6 +69,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| C Cheatsheet | Cheatsheet de C | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/C.txt) |
 | C - Empieza a programar | Lista de tutoriales para aprender C | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=wgiBStujBCw&list=PLw8RQJQ8K1ySN6bVHYEpDoh-CKVkL_uOF&index=3&ab_channel=EmpiezaAProgramar) |
 | C in a Nutshell | Libro para aprender C | Libro | Inglés | No | [Link](https://www.amazon.com/Nutshell-Definitive-Reference-Peter-Prinz/dp/1491904755) |
 | C Programming For Beginners | Curso de C para principiantes | Curso | Inglés | No | [Link](https://www.udemy.com/course/c-programming-for-beginners/) |
@@ -102,9 +103,11 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Build a C# .NET Application in 60 Minutes | Tutorial para crear una aplicación .NET | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=GcFJjpMFJvI&ab_channel=TraversyMedia) |
+| C# App in One Hour | Tutorial para crear una aplicación de C# | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org) |
+| C# Cheatsheet | Cheatsheet de C# | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/C%23.txt) |
 | C# Tutorial | Tutorial de C# de 4 horas y media | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org) |
-| C# App in One Hour | Tutorial para crear una aplicación de C#| Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org) |
 | Curso C# Píldoras Informáticas | Lista de Repoducción del Curso de C# de Píldoras Informáticas | Curso | Español | Sí | [Link](https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&ab_channel=pildorasinformaticas) |
+| Documentación C# | Documentación oficial de C# | Documentación | Español | Sí | [Link](https://docs.microsoft.com/es-es/dotnet/csharp/) |
 | SoloLearn C# | Curso para aprender C# con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1080) |
 
 **[⬆ Volver al índice](#índice)**
@@ -116,6 +119,10 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 ## Go
 
 ## HTML
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| HTML Cheatsheet | Cheatsheet de HTML | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html) |
 
 ## Java
 
@@ -132,6 +139,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Front End Development Libraries | Curso interactivo de librerías frontend | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/front-end-libraries/) |
 | JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 | JavaScript Algorithms and Data Structures | Curso interactivo de JavaScript | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+| JavaScript Cheatsheet | Cheatsheet de JavaScript | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js) |
 | JavaScript Code Examples | Ejemplos de código de JavaScript | Ejemplos | Inglés | Sí | [Link](https://freefrontend.com/javascript-code-examples/#sitemap-examples) |
 | JavaScript Crash Course For Beginners | Tutorial corto para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia) |
 | JavaScript Info | Documentación muy estructurada | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
@@ -148,6 +156,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| Angular Cheatsheet | Cheatsheet de Angular | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angular.js) |
 | Angular Crash Course | Tutorial de Angular para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=Fdf5aTYRW0E&ab_channel=TraversyMedia) |
 | Angular Docs | Documentación oficial de Angular | Documentación | Inglés | Sí | [Link](https://angular.io/docs) |
 | Learn Angular 8 from Scratch for Beginners | Tutorial de menos de una hora para entender Angular | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=_TLhUCjY9iA&t=2484s&ab_channel=DesignCourse) |
@@ -159,6 +168,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | React Book by Soft Chris | Libro de React en un repositorio de Github | Libro | Inglés | Sí | [Link](https://github.com/softchris/react-book?ref=java5cript.com) |
+| React Cheatsheet | Cheatsheet de React | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js) |
 | React Enlightenment | Aprende React como si fuera una receta | Libro | Inglés | Sí | [Link](https://www.reactenlightenment.com/) |
 | Reintroducing React | Libro de React con toque humorístico | Libro | Inglés | Sí | [Link](https://leanpub.com/reintroducing-react?ref=java5cript.com) |
 | The React Beginner's Handbook | Libro de React para principiantes | Libro | Inglés | Sí | [Link](https://flaviocopes.com/page/react-handbook/?ref=java5cript.com) |
@@ -172,6 +182,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Alligator.io Vue posts | Publicaciones de Vue | Blog | Inglés | Sí | [Link](https://alligator.io/vuejs/?ref=java5cript.com) |
 | The Vue Handbook | Libro para aprender Vue desde cero | Libro | Inglés | Sí | [Link](https://vuehandbook.com/?ref=java5cript.com) |
 | The Vue Tutorial for 2018 | Tutorial breve y conciso para entender Vue | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=78tNYZUS-ps&list=WL&index=12&t=4s&ab_channel=DesignCourse) |
+| Vue Cheatsheet | Cheatsheet de Vue | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/vue.js) |
 | Vue Crash Course 2021 | Tutorial de Vue para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=qZXt1Aom3Cs&ab_channel=TraversyMedia) |
 | Vue.js Docs | Documentación oficial de Vue | Documentación | Inglés | Sí | [Link](https://v3.vuejs.org/guide/introduction.html?ref=java5cript.com) |
 
@@ -180,6 +191,12 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 ## Kotlin
 
 ## PHP
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| PHP Cheatsheet | Cheatsheet de PHP | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php) |
+
+**[⬆ Volver al índice](#índice)**
 
 ## Python
 
