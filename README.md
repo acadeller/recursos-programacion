@@ -171,7 +171,8 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Build a Web App with React | Curso para crear una aplicación Web con React | Curso | Inglés | Sí | [Link](https://blog.glitch.com/post/react-starter-kit?ref=java5cript.com) |
-| The Free React Bootcamp | Bootcamp de cuatro días de React | Curso | Inglés | Sí | [Link](https://ui.dev/free-react-bootcamp/?ref=java5cript.com) |
+| Free React Bootcamp | Bootcamp de cuatro días de React | Curso | Inglés | Sí | [Link](https://ui.dev/free-react-bootcamp/?ref=java5cript.com) |
+| Full React Tutorial | Lista de reproducción de tutoriales de React | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&ab_channel=TheNetNinja) |
 | Learn React for free | Curso gratuito para aprender React | Curso | Inglés | Sí | [Link](https://scrimba.com/learn/learnreact?ref=java5cript.com) |
 | Level Up Your React Skills | Tutoriales de React | Blog | Inglés | Sí | [Link](https://upmostly.com/?ref=java5cript.com) |
 | Overreacted | Blog de React | Blog | Inglés | Sí | [Link](https://overreacted.io/?ref=java5cript.com) |
@@ -201,6 +202,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Vue Cheatsheet | Cheatsheet de Vue | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/vue.js) |
 | Vue Crash Course 2021 | Tutorial de Vue para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=qZXt1Aom3Cs&ab_channel=TraversyMedia) |
 | Vue Fundamentals | Curso de Vue para principiantes | Curso | Inglés | Sí | [Link](https://vueschool.io/courses/vuejs-fundamentals?ref=java5cript.com) |
+| Vue JS 3 Tutorial for Beginners | Lista de reproducción de tutoriales de Vue | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&ab_channel=TheNetNinja) |
 | Vue.js Docs | Documentación oficial de Vue | Documentación | Inglés | Sí | [Link](https://v3.vuejs.org/guide/introduction.html?ref=java5cript.com) |
 
 **[⬆ Volver al índice](#índice)**
