@@ -193,10 +193,14 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Alligator.io Vue posts | Publicaciones de Vue | Blog | Inglés | Sí | [Link](https://alligator.io/vuejs/?ref=java5cript.com) |
+| Intro to Vue 3 | Curso de introducción a Vue 3 | Curso | Inglés | Sí | [Link](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3/?ref=java5cript.com) |
+| Learn Vue for free | Curso gratuito de Vue 3 | Curso | Inglés | Sí | [Link](https://scrimba.com/learn/learnvue?ref=java5cript.com) |
+| Learn Vue step by step | Curso introductorio de Vue | Curso | Inglés | Sí | [Link](https://laracasts.com/series/learn-vue-2-step-by-step?ref=java5cript.com) |
 | The Vue Handbook | Libro para aprender Vue desde cero | Libro | Inglés | Sí | [Link](https://vuehandbook.com/?ref=java5cript.com) |
 | The Vue Tutorial for 2018 | Tutorial breve y conciso para entender Vue | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=78tNYZUS-ps&list=WL&index=12&t=4s&ab_channel=DesignCourse) |
 | Vue Cheatsheet | Cheatsheet de Vue | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/vue.js) |
 | Vue Crash Course 2021 | Tutorial de Vue para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=qZXt1Aom3Cs&ab_channel=TraversyMedia) |
+| Vue Fundamentals | Curso de Vue para principiantes | Curso | Inglés | Sí | [Link](https://vueschool.io/courses/vuejs-fundamentals?ref=java5cript.com) |
 | Vue.js Docs | Documentación oficial de Vue | Documentación | Inglés | Sí | [Link](https://v3.vuejs.org/guide/introduction.html?ref=java5cript.com) |
 
 **[⬆ Volver al índice](#índice)**
