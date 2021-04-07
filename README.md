@@ -170,14 +170,20 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| Build a Web App with React | Curso para crear una aplicación Web con React | Curso | Inglés | Sí | [Link](https://blog.glitch.com/post/react-starter-kit?ref=java5cript.com) |
+| The Free React Bootcamp | Bootcamp de cuatro días de React | Curso | Inglés | Sí | [Link](https://ui.dev/free-react-bootcamp/?ref=java5cript.com) |
+| Learn React for free | Curso gratuito para aprender React | Curso | Inglés | Sí | [Link](https://scrimba.com/learn/learnreact?ref=java5cript.com) |
 | Level Up Your React Skills | Tutoriales de React | Blog | Inglés | Sí | [Link](https://upmostly.com/?ref=java5cript.com) |
 | Overreacted | Blog de React | Blog | Inglés | Sí | [Link](https://overreacted.io/?ref=java5cript.com) |
+| React 101 | Curso de Iniciación de React | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/react-101?ref=java5cript.com) |
 | React Book by Soft Chris | Libro de React en un repositorio de Github | Libro | Inglés | Sí | [Link](https://github.com/softchris/react-book?ref=java5cript.com) |
 | React Cheatsheet | Cheatsheet de React | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js) |
+| React Curriculum | Curso interactivo de React | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/front-end-libraries/react/?ref=java5cript.com) |
 | React Docs | Documentación oficial de React | Documentación | Inglés | Sí | [Link](https://reactjs.org/docs/getting-started.html?ref=java5cript.com) |
 | React Enlightenment | Aprende React como si fuera una receta | Libro | Inglés | Sí | [Link](https://www.reactenlightenment.com/) |
 | React Guide | Guía de React | Documentación | Inglés | Sí | [Link](https://web.dev/react/?ref=java5cript.com) |
 | Reintroducing React | Libro de React con toque humorístico | Libro | Inglés | Sí | [Link](https://leanpub.com/reintroducing-react?ref=java5cript.com) |
+| The Beginner's Guide to React | Curso introductorio de React | Curso | Inglés | Sí | [Link](https://egghead.io/courses/the-beginner-s-guide-to-react?ref=java5cript.com) |
 | The React Beginner's Handbook | Libro de React para principiantes | Libro | Inglés | Sí | [Link](https://flaviocopes.com/page/react-handbook/?ref=java5cript.com) |
 
 **[⬆ Volver al índice](#índice)**
