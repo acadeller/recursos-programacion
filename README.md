@@ -121,6 +121,8 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | CSS Crash Course For Absolute Beginners | Tutorial para principiantes de CSS | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=yfoY53QXEnI&ab_channel=TraversyMedia) |
 | CSS Tricks | Blog de CSS | Blog | Inglés | Sí | [Link](https://css-tricks.com/) |
 | CSS Tutorial | Documentación con ejemplos de CSS | Documentación | Inglés/Español | Sí | [Link](https://www.w3schools.com/css/) |
+| Curso CSS para Principiantes | Tutorial en español de CSS para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=W6GTDfrWjXs&ab_channel=Fazt) |
+| Curso de CSS desde CERO | Tutorial de 10 horas de CSS | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=OWKXEJN67FE&ab_channel=SoyDalto) |
 | HTML and CSS Tutorial for 2021 | Curso de HTML y CSS actualizado | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse) |
 | Learn CSS | Curso introductorio de CSS | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-css) |
 | Posts About CSS - Alligator.io| Publicaciones de CSS | Blog | Inglés | Sí | [Link](https://alligator.io/css/) |
@@ -137,10 +139,14 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Basic HTML | Curso interactivo de HTML | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) |
+| Build a Website Tutorial | Tutorial de HTML creando una página web | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org) |
+| Curso de HTML5 desde CERO | Turorial desde cero de HTML | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=kN1XP-Bef7w&ab_channel=SoyDalto) |
+| Curso HTML para Principiantes | Tutorial en español de HTML para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=rbuYtrNUxg4&ab_channel=Fazt) |
 | HTML and CSS Tutorial for 2021 | Curso de HTML y CSS actualizado | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse) |
 | HTML Cheatsheet | Cheatsheet de HTML | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html) |
 | HTML Crash Course For Absolute Beginners | Tutorial para principiantes de HTML | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=UB1O30fR-EE&ab_channel=TraversyMedia) |
 | HTML Tutorial | Documentación con ejemplos de HTML | Documentación | Inglés/Español | Sí | [Link](https://www.w3schools.com/html/) |
+| HTML Tutorial for Beginners | Tutorial de HTML para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh) |
 | Learn HTML | Curso introductorio de HTML | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-html) |
 | Posts About HTML - Alligator.io| Publicaciones de HTML | Blog | Inglés | Sí | [Link](https://alligator.io/html/) |
 
