@@ -139,7 +139,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Dart Programming Tutorial | Tutorial de programación de Dart | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&ab_channel=freeCodeCamp.org) |
 | Documentación de Dart | Documentación oficial de Dart | Documentación | Inglés | Sí | [Link](https://dart.dev/guides) |
 | Introducción a Dart | Lista de reproducciones para iniciarse con Dart | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=Kc8KPE0O6g0&list=PLCKuOXG0bPi2FqKxXIX7XnFriJmZnsKOE&ab_channel=FernandoHerrera) |
-| Learn Dart: First Step to Flutter | Curso de Dart | Curso | Inglés | Sí | [Link](https://www.educative.io/courses/learn-dart-first-step-to-flutter?affiliate_id=5073518643380224) |
+| Learn Dart: First Step to Flutter | Curso de Dart para luego aprender Flutter | Curso | Inglés | Sí | [Link](https://www.educative.io/courses/learn-dart-first-step-to-flutter?affiliate_id=5073518643380224) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -252,6 +252,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Learn Vue step by step | Curso introductorio de Vue | Curso | Inglés | Sí | [Link](https://laracasts.com/series/learn-vue-2-step-by-step?ref=java5cript.com) |
 | The Vue Handbook | Libro para aprender Vue desde cero | Libro | Inglés | Sí | [Link](https://vuehandbook.com/?ref=java5cript.com) |
 | The Vue Tutorial for 2018 | Tutorial breve y conciso para entender Vue | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=78tNYZUS-ps&list=WL&index=12&t=4s&ab_channel=DesignCourse) |
+| Vue 3 Animation Tutorial | Lista de reproducción de tutoriales de animaciones con Vue | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=RIApQjn9fvw&list=PL4cUxeGkcC9ghm7-iTfS9n468Kp7l9Ipu&ab_channel=TheNetNinja) |
 | Vue Cheatsheet | Cheatsheet de Vue | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/vue.js) |
 | Vue Crash Course 2021 | Tutorial de Vue para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=qZXt1Aom3Cs&ab_channel=TraversyMedia) |
 | Vue Fundamentals | Curso de Vue para principiantes | Curso | Inglés | Sí | [Link](https://vueschool.io/courses/vuejs-fundamentals?ref=java5cript.com) |
