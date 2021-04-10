@@ -127,6 +127,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Learn CSS | Curso introductorio de CSS | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-css) |
 | Posts About CSS - Alligator.io| Publicaciones de CSS | Blog | Inglés | Sí | [Link](https://alligator.io/css/) |
 | Zero to Hero Course| Tutorial de 6 horas para dominar CSS | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=1Rs2ND1ryYc&ab_channel=freeCodeCamp.org) |
+| css layout| Diseños y patrones populares hechos con CSS  | documentación | ingles| si|[Link](https://csslayout.io/) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -191,6 +192,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Learn HTML | Curso introductorio de HTML | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-html) |
 | Posts About HTML - Alligator.io| Publicaciones de HTML | Blog | Inglés | Sí | [Link](https://alligator.io/html/) |
 
+
 **[⬆ Volver al índice](#índice)**
 
 ## Java
@@ -216,6 +218,10 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
 | MDN JavaScript | Documentación de JavaScript | Documentación | Inglés | Sí | [Link](https://developer.mozilla.org/es/docs/Web/JavaScript) |
 | W3schools JavaScript Tutorial | Documentación con ejemplos de JavaScript | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/js/default.asp) |
+| Html dom |administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
+| javatpoint : javascript | Documentación de JavaScript de básico a abanzado | Documentación | Inglés | Sí | [Link](https://www.javatpoint.com/javascript-tutorial) |
+| learn javascript| teoría y ejercicios de javascript | Blog | Inglés | Sí | [Link](https://www.learn-js.org) |
+
 
 
 **[⬆ Volver al índice](#índice)**
