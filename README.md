@@ -226,13 +226,6 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | W3schools JavaScript Tutorial | Documentación con ejemplos de JavaScript | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/js/default.asp) |
 
 
-
-
-
-
-
-
-
 **[⬆ Volver al índice](#índice)**
 
 
@@ -300,7 +293,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 **[⬆ Volver al índice](#índice)**
 
 ## Python
-Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Fullstackpython | Crear, implementar y operar aplicaciones de Python | Blog | Inglés | Sí | [Link](https://www.fullstackpython.com/) |
 ## R
