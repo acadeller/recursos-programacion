@@ -218,8 +218,8 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | JavaScript Info | Documentación muy estructurada | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
 | JavaScript tutorial|API web proporcionadas por javascript | Documentación | Inglés | Sí | [Link](https://www.javascripttutorial.net/web-apis/ ) |
 | Javatpoint : javaScript | Documentación de JavaScript de básico a abanzado | Documentación | Inglés | Sí | [Link](https://www.javatpoint.com/javascript-tutorial) |
-| Html Dom |administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
-| Learn javaScript| teoría y ejercicios de javascript | Blog | Inglés | Sí | [Link](https://www.learn-js.org) |
+| Html DOM |administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
+| Learn javaScript| teoría y ejercicios de javaScript | Blog | Inglés | Sí | [Link](https://www.learn-js.org) |
 | Learn JavaScript - Full Course for Beginners | Tutorial de JavaScript para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org) |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
 | MDN JavaScript | Documentación de JavaScript | Documentación | Inglés | Sí | [Link](https://developer.mozilla.org/es/docs/Web/JavaScript) |
@@ -302,7 +302,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 ## Python
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| fullstackpython | Crear, implementar y operar aplicaciones de Python | Blog | Inglés | Sí | [Link](https://www.fullstackpython.com/) |
+| Fullstackpython | Crear, implementar y operar aplicaciones de Python | Blog | Inglés | Sí | [Link](https://www.fullstackpython.com/) |
 ## R
 
 ## Ruby
