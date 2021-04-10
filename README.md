@@ -119,7 +119,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Basic CSS | Curso interactivo de CSS | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css) |
 | CSS Crash Course For Absolute Beginners | Tutorial para principiantes de CSS | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=yfoY53QXEnI&ab_channel=TraversyMedia) |
-| css layout| Diseños y patrones populares hechos con CSS  | documentación | ingles| si|[Link](https://csslayout.io/) |
+| CSS layout| Diseños y patrones populares hechos con CSS  | Documentación | Inglés| Sí |[Link](https://csslayout.io/) |
 | CSS Tricks | Blog de CSS | Blog | Inglés | Sí | [Link](https://css-tricks.com/) |
 | CSS Tutorial | Documentación con ejemplos de CSS | Documentación | Inglés/Español | Sí | [Link](https://www.w3schools.com/css/) |
 | Curso CSS para Principiantes | Tutorial en español de CSS para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=W6GTDfrWjXs&ab_channel=Fazt) |
@@ -183,7 +183,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Basic HTML | Curso interactivo de HTML | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) |
 | Build a Website Tutorial | Tutorial de HTML creando una página web | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org) |
-| Curso de HTML5 desde CERO | Turorial desde cero de HTML | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=kN1XP-Bef7w&ab_channel=SoyDalto) |
+| Curso de HTML5 desde CERO | Tutorial desde cero de HTML | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=kN1XP-Bef7w&ab_channel=SoyDalto) |
 | Curso HTML para Principiantes | Tutorial en español de HTML para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=rbuYtrNUxg4&ab_channel=Fazt) |
 | HTML and CSS Tutorial for 2021 | Curso de HTML y CSS actualizado | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse) |
 | HTML Cheatsheet | Cheatsheet de HTML | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html) |
@@ -218,7 +218,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | JavaScript Info | Documentación muy estructurada | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
 | JavaScript tutorial|API web proporcionadas por javascript | Documentación | Inglés | Sí | [Link](https://www.javascripttutorial.net/web-apis/ ) |
 | Javatpoint : javaScript | Documentación de JavaScript de básico a abanzado | Documentación | Inglés | Sí | [Link](https://www.javatpoint.com/javascript-tutorial) |
-| Html DOM |administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
+| Html DOM | Administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
 | Learn javaScript| teoría y ejercicios de javaScript | Blog | Inglés | Sí | [Link](https://www.learn-js.org) |
 | Learn JavaScript - Full Course for Beginners | Tutorial de JavaScript para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org) |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
@@ -350,6 +350,7 @@ Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar 
 ## Contribuidores 🏆
 
 * [César Álvarez Llaneza](https://github.com/cesaralvrz): Fundador de Acadeller.
+* [Santiago Ramirez](https://github.com/santy-ramirez): Contribuidor.
 
 
 
