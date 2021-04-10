@@ -119,6 +119,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Basic CSS | Curso interactivo de CSS | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css) |
 | CSS Crash Course For Absolute Beginners | Tutorial para principiantes de CSS | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=yfoY53QXEnI&ab_channel=TraversyMedia) |
+| css layout| Diseños y patrones populares hechos con CSS  | documentación | ingles| si|[Link](https://csslayout.io/) |
 | CSS Tricks | Blog de CSS | Blog | Inglés | Sí | [Link](https://css-tricks.com/) |
 | CSS Tutorial | Documentación con ejemplos de CSS | Documentación | Inglés/Español | Sí | [Link](https://www.w3schools.com/css/) |
 | Curso CSS para Principiantes | Tutorial en español de CSS para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=W6GTDfrWjXs&ab_channel=Fazt) |
@@ -127,6 +128,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Learn CSS | Curso introductorio de CSS | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-css) |
 | Posts About CSS - Alligator.io| Publicaciones de CSS | Blog | Inglés | Sí | [Link](https://alligator.io/css/) |
 | Zero to Hero Course| Tutorial de 6 horas para dominar CSS | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=1Rs2ND1ryYc&ab_channel=freeCodeCamp.org) |
+
 
 **[⬆ Volver al índice](#índice)**
 
@@ -191,6 +193,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Learn HTML | Curso introductorio de HTML | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-html) |
 | Posts About HTML - Alligator.io| Publicaciones de HTML | Blog | Inglés | Sí | [Link](https://alligator.io/html/) |
 
+
 **[⬆ Volver al índice](#índice)**
 
 ## Java
@@ -204,6 +207,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Build 15 JavaScript Projects | Tutorial para crear 15 proyectos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3PHXvlpOkf4) |
 | Curso Javascript para Principiantes | Tutorial para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=RqQ1d1qEWlE&ab_channel=Fazt) |
 | David Walsh Blog | Blog de JavaScript | Blog | Inglés | Sí | [Link](https://davidwalsh.name/tutorials/javascript) |
+| Desarrollo web| explicación  descriptiva de javascript para empezar y profundizar | Libro | Inglés | Sí | [Link](https://desarrolloweb.com/manuales/manual-javascript.html) |
 | Eloquent JavaScript | Libro introductorio de JavaScript | Libro | Inglés | Sí | [Link](https://eloquentjavascript.net/) |
 | Front End Development Libraries | Curso interactivo de librerías frontend | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/front-end-libraries/) |
 | JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
@@ -212,6 +216,10 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | JavaScript Code Examples | Ejemplos de código de JavaScript | Ejemplos | Inglés | Sí | [Link](https://freefrontend.com/javascript-code-examples/#sitemap-examples) |
 | JavaScript Crash Course For Beginners | Tutorial corto para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia) |
 | JavaScript Info | Documentación muy estructurada | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
+| JavaScript tutorial|API web proporcionadas por javascript | Documentación | Inglés | Sí | [Link](https://www.javascripttutorial.net/web-apis/ ) |
+| Javatpoint : javaScript | Documentación de JavaScript de básico a abanzado | Documentación | Inglés | Sí | [Link](https://www.javatpoint.com/javascript-tutorial) |
+| Html DOM |administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
+| Learn javaScript| teoría y ejercicios de javaScript | Blog | Inglés | Sí | [Link](https://www.learn-js.org) |
 | Learn JavaScript - Full Course for Beginners | Tutorial de JavaScript para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org) |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
 | MDN JavaScript | Documentación de JavaScript | Documentación | Inglés | Sí | [Link](https://developer.mozilla.org/es/docs/Web/JavaScript) |
@@ -285,7 +293,9 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 **[⬆ Volver al índice](#índice)**
 
 ## Python
-
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Fullstackpython | Crear, implementar y operar aplicaciones de Python | Blog | Inglés | Sí | [Link](https://www.fullstackpython.com/) |
 ## R
 
 ## Ruby
