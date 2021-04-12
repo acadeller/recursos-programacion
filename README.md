@@ -247,9 +247,11 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| Angular 10 Curso Básico | Lista de repodrucción para aprender Angular | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=SZtxwDAqEok&list=PLezsbUDiwcpmhNiMzVPYJXV0Rqn71G4PU&ab_channel=LeParadoxHD) |
 | Angular Cheatsheet | Cheatsheet de Angular | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angular.js) |
 | Angular Crash Course | Tutorial de Angular para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=Fdf5aTYRW0E&ab_channel=TraversyMedia) |
 | Angular Docs | Documentación oficial de Angular | Documentación | Inglés | Sí | [Link](https://angular.io/docs) |
+| Angular for Beginners | Tutorial para aprender a crear un juego Tic-Tac-Toe | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=G0bBLvWXBvc&t=122s&ab_channel=Fireship) |
 | Learn Angular 8 from Scratch for Beginners | Tutorial de menos de una hora para entender Angular | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=_TLhUCjY9iA&t=2484s&ab_channel=DesignCourse) |
 
 **[⬆ Volver al índice](#índice)**
