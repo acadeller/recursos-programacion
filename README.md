@@ -247,7 +247,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| Angular 10 Curso Básico | Lista de repodrucción para aprender Angular | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=SZtxwDAqEok&list=PLezsbUDiwcpmhNiMzVPYJXV0Rqn71G4PU&ab_channel=LeParadoxHD) |
+| Angular 10 Curso Básico | Lista de reproducción para aprender Angular | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=SZtxwDAqEok&list=PLezsbUDiwcpmhNiMzVPYJXV0Rqn71G4PU&ab_channel=LeParadoxHD) |
 | Angular Cheatsheet | Cheatsheet de Angular | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angular.js) |
 | Angular Crash Course | Tutorial de Angular para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=Fdf5aTYRW0E&ab_channel=TraversyMedia) |
 | Angular Docs | Documentación oficial de Angular | Documentación | Inglés | Sí | [Link](https://angular.io/docs) |
@@ -299,6 +299,19 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 **[⬆ Volver al índice](#índice)**
 
 ## Kotlin
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Build A Simple Android App | Tutorial para aprender a crear una app con Kotlin | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=BBWyXo-3JGQ&ab_channel=TraversyMedia) |
+| Curso Android desde Cero | Curso de Kotlin para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=ebQphhLpJG0&ab_channel=MoureDevbyBraisMoure) |
+| Curso Kotlin | Tutoriales para aprender Kotlin | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=bmcDEEcUwRw&list=PLrn69hTK5FBxpYcIy7DZjPw0-h4TmP-Sa&ab_channel=DevExperto-AntonioLeiva) |
+| Curso Kotlin desde Cero | Lista de reproducción para aprender Kotlin | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=s0BB-1h0d58&list=PLAzlSdU-KYwVlDl-939Vv0_r5XhU7zgX1&ab_channel=Danisable) |
+| Dokka | Documentation Engine para Kotlin | Documentación | Inglés | Sí | [Link](https://github.com/Kotlin/dokka) |
+| Kotlin Course | Tutorial para aprender Kotlin | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=F9UC9DY-vIU&ab_channel=freeCodeCamp.org) |
+| Kotlin Docs | Documentación oficial de Kotlin | Documentación | Inglés | Sí | [Link](https://kotlinlang.org/docs/home.html) |
+| Tutorial de Kotlin para Android | Tutorial de iniciación de Kotlin | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=P9ZFhTw2hGA&ab_channel=Platzi) |
+
+**[⬆ Volver al índice](#índice)**
 
 ## PHP
 
