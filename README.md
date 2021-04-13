@@ -318,6 +318,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | PHP Cheatsheet | Cheatsheet de PHP | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php) |
+| PHP Docs | Documentación oficial de PHP | Documentación | Español | Sí | [Link](https://www.php.net/manual/es/) |
 
 **[⬆ Volver al índice](#índice)**
 
