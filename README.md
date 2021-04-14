@@ -219,6 +219,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Build 15 JavaScript Projects | Tutorial para crear 15 proyectos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3PHXvlpOkf4) |
+| CDNJS | Lista de librerías en CDN de JavaScript | Utilidad | Inglés | Sí | [Link](https://cdnjs.com/) |
 | Curso Javascript para Principiantes | Tutorial para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=RqQ1d1qEWlE&ab_channel=Fazt) |
 | David Walsh Blog | Blog de JavaScript | Blog | Inglés | Sí | [Link](https://davidwalsh.name/tutorials/javascript) |
 | Desarrollo web| explicación  descriptiva de javascript para empezar y profundizar | Libro | Inglés | Sí | [Link](https://desarrolloweb.com/manuales/manual-javascript.html) |
