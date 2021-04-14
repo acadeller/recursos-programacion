@@ -318,8 +318,13 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| Curso PHP MySQL | Series de tutoriales de PHP y MySQL | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=I75CUdSJifw&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_&ab_channel=pildorasinformaticas) |
+| Curso PHP 2020 | Lista de reproducción para aprender PHP | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=vXf5gaozWcc&list=PLg9145ptuAij8vIQLU25f7sUSH4E8pdY5&ab_channel=yacklyon) |
 | PHP Cheatsheet | Cheatsheet de PHP | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php) |
 | PHP Docs | Documentación oficial de PHP | Documentación | Español | Sí | [Link](https://www.php.net/manual/es/) |
+| PHP For Absolute Beginners | Tutorial de PHP para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=2eebptXfEvw&ab_channel=TraversyMedia) |
+| PHP Full Course | Tutorial de más de 4 horas de PHP | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=OK_JCtrrv-c&ab_channel=freeCodeCamp.org) |
+| PHP Tutorial | Serie de tutoriales de PHP desde cero | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o&ab_channel=TheNetNinja) |
 
 **[⬆ Volver al índice](#índice)**
 
