@@ -109,6 +109,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | C# Ya | Documentación paso a paso de C# | Documentación | Español | Sí | [Link](https://www.tutorialesprogramacionya.com/csharpya/) |
 | Curso C# Píldoras Informáticas | Lista de Repoducción del Curso de C# de Píldoras Informáticas | Curso | Español | Sí | [Link](https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B&ab_channel=pildorasinformaticas) |
 | Documentación C# | Documentación oficial de C# | Documentación | Español | Sí | [Link](https://docs.microsoft.com/es-es/dotnet/csharp/) |
+| Learn C# | Documentación con tutoriales de C# | Documentación | Inglés | Sí | [Link](https://www.learncs.org/) |
 | SoloLearn C# | Curso para aprender C# con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1080) |
 
 **[⬆ Volver al índice](#índice)**
@@ -172,6 +173,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Golang Full Course for Beginners | Tutorial de Go 2021 | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=1NF2LtWbA1g&ab_channel=DailyCodeBuffer) |
 | Golang Tutorial | Tutorial introductorio de Go | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=75lJDVT1h0s&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&ab_channel=TechWithTim) |
 | Golang Tutorial for Beginners | Tutorial para principiantes de Go | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org) |
+| Learn Go | Documentación con tutoriales de Go | Documentación | Inglés | Sí | [Link](https://www.learn-golang.org/) |
 | REST API CRUD con go | Tutorial para aprender REST API con Go | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=pQAV8A9KLwk&ab_channel=FaztCode) |
 
 **[⬆ Volver al índice](#índice)**
@@ -190,7 +192,8 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | HTML Crash Course For Absolute Beginners | Tutorial para principiantes de HTML | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=UB1O30fR-EE&ab_channel=TraversyMedia) |
 | HTML Tutorial | Documentación con ejemplos de HTML | Documentación | Inglés/Español | Sí | [Link](https://www.w3schools.com/html/) |
 | HTML Tutorial for Beginners | Tutorial de HTML para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh) |
-| Learn HTML | Curso introductorio de HTML | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-html) |
+| Learn HTML | Documentación con tutoriales de HTML | Documentación | Inglés | Sí | [Link](https://www.learn-html.org/) |
+| Learn HTML Codeacademy | Curso introductorio de HTML | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-html) |
 | Posts About HTML - Alligator.io| Publicaciones de HTML | Blog | Inglés | Sí | [Link](https://alligator.io/html/) |
 
 
@@ -207,6 +210,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Java Full Course | Tutorial de 12 horas actualizado | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=xk4_1vDrzzo&ab_channel=BroCode) |
 | Java Programming Cheatsheet | Cheatsheet de Java | Documentación | Inglés | Sí | [Link](https://introcs.cs.princeton.edu/java/11cheatsheet/) |
 | Java Tutorial | Documentación con ejemplos de Java | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/java/default.asp) |
+| Learn Java | Documentación con tutoriales de Java | Documentación | Inglés | Sí | [Link](https://www.learnjavaonline.org/) |
 | Learn Java 8 | Tutorial completo de Java | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=grEKMHGYyns&ab_channel=freeCodeCamp.org) |
 
 
@@ -320,6 +324,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Curso PHP MySQL | Series de tutoriales de PHP y MySQL | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=I75CUdSJifw&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_&ab_channel=pildorasinformaticas) |
 | Curso PHP 2020 | Lista de reproducción para aprender PHP | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=vXf5gaozWcc&list=PLg9145ptuAij8vIQLU25f7sUSH4E8pdY5&ab_channel=yacklyon) |
+| Learn PHP | Documentación con tutoriales de PHP | Documentación | Inglés | Sí | [Link](https://www.learn-php.org/) |
 | PHP Cheatsheet | Cheatsheet de PHP | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php) |
 | PHP Docs | Documentación oficial de PHP | Documentación | Español | Sí | [Link](https://www.php.net/manual/es/) |
 | PHP For Absolute Beginners | Tutorial de PHP para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=2eebptXfEvw&ab_channel=TraversyMedia) |
@@ -331,11 +336,19 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 ## Python
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| Curso de Python desde cero | Lista de reproducción para aprender Python | Tutorial | Español | Sí | [Link](| Curso Python para Principiantes | Tutorial de Python desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=chPhlsHoEPo&ab_channel=Fazt) |) |
+| Automate the Boring Stuff with Python | EBook para aprender Pythin | Libro | Inglés | Sí | [Link](https://automatetheboringstuff.com/) |
+| Curso de Python desde cero | Lista de reproducción para aprender Python | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&ab_channel=pildorasinformaticas) |
 | Curso Python para Principiantes | Tutorial de Python desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=chPhlsHoEPo&ab_channel=Fazt) |
+| Dive into Python 3 | Libro online para aprender Python | Libro | Inglés | Sí | [Link](https://diveintopython3.net/) |
 | Fullstackpython | Crear, implementar y operar aplicaciones de Python | Blog | Inglés | Sí | [Link](https://www.fullstackpython.com/) |
-| Learn Python | Tutorial para principiantes de Python | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=rfscVS0vtbw&t=24s&ab_channel=freeCodeCamp.org) |
+| Learn Python | Documentación de Python | Documentación | Inglés | Sí | [Link](https://www.learnpython.org/) |
+| Learn Python Course | Tutorial para principiantes de Python | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=rfscVS0vtbw&t=24s&ab_channel=freeCodeCamp.org) |
+| Python Basics | Documentación para aprender Python | Documentación | Inglés | Sí | [Link](https://pythonbasics.org/) |
+| Python Books | Librería de libros gratuitos de Python | Libro | Inglés | Sí | [Link](https://pythonbooks.revolunet.com/) |
+| Python Docs | Documentación oficial de Python | Documentación | Español | Sí | [Link](https://docs.python.org/es/3/) |
 | Python for Beginners | Tutorial de 6 horas de Python para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=4s&ab_channel=ProgrammingwithMosh) |
+| Python for Everybody | Recolección de materiales para aprender Python | Documentación | Inglés | Sí | [Link](https://www.py4e.com/) |
+| Python Programming | Documentación con tutoriales de Python | Documentación | Inglés | Sí | [Link](https://pythonprogramming.net/) |
 | W3schools Python Tutorial | Documentación con ejemplos de Python | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/python/default.asp) |
 
 **[⬆ Volver al índice](#índice)**
