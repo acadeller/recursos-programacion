@@ -331,7 +331,15 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 ## Python
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| Curso de Python desde cero | Lista de reproducción para aprender Python | Tutorial | Español | Sí | [Link](| Curso Python para Principiantes | Tutorial de Python desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=chPhlsHoEPo&ab_channel=Fazt) |) |
+| Curso Python para Principiantes | Tutorial de Python desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=chPhlsHoEPo&ab_channel=Fazt) |
 | Fullstackpython | Crear, implementar y operar aplicaciones de Python | Blog | Inglés | Sí | [Link](https://www.fullstackpython.com/) |
+| Learn Python | Tutorial para principiantes de Python | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=rfscVS0vtbw&t=24s&ab_channel=freeCodeCamp.org) |
+| Python for Beginners | Tutorial de 6 horas de Python para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=4s&ab_channel=ProgrammingwithMosh) |
+| W3schools Python Tutorial | Documentación con ejemplos de Python | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/python/default.asp) |
+
+**[⬆ Volver al índice](#índice)**
+
 ## R
 
 ## Ruby
