@@ -334,6 +334,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 **[⬆ Volver al índice](#índice)**
 
 ## Python
+
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Automate the Boring Stuff with Python | EBook para aprender Pythin | Libro | Inglés | Sí | [Link](https://automatetheboringstuff.com/) |
@@ -354,6 +355,15 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 **[⬆ Volver al índice](#índice)**
 
 ## R
+
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Learn R Programming | Documentación para aprender R | Documentación | Inglés | Sí | [Link](https://www.datamentor.io/r-programming/) |
+| R Programming Tutorial | Tutorial para aprender las bases de R | Tutorial | Inglés | Sí | [Link](https://www.tutorialspoint.com/r/index.htm) |
+| R Tutorial | Documentación con ejemplos para aprender R | Documentación | Inglés | Sí | [Link](https://www.tutorialspoint.com/r/index.htm) |
+| The R Manuals | Documentación oficial de R | Documentación | Inglés | Sí | [Link](https://cran.r-project.org/manuals.html) |
+
+**[⬆ Volver al índice](#índice)**
 
 ## Ruby
 
