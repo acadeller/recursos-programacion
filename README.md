@@ -359,6 +359,8 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Learn R Programming | Documentación para aprender R | Documentación | Inglés | Sí | [Link](https://www.datamentor.io/r-programming/) |
+| R Programming Crash Course | Tutorial intensivo para aprender R | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=ZYdXI1GteDE&ab_channel=TraversyMedia) |
+| R Programming for Beginners | Tutorial introductorio de R | Tutorial | Inglés | Sí | [Link](https://www.tutorialspoint.com/r/index.htm) |
 | R Programming Tutorial | Tutorial para aprender las bases de R | Tutorial | Inglés | Sí | [Link](https://www.tutorialspoint.com/r/index.htm) |
 | R Tutorial | Documentación con ejemplos para aprender R | Documentación | Inglés | Sí | [Link](https://www.tutorialspoint.com/r/index.htm) |
 | The R Manuals | Documentación oficial de R | Documentación | Inglés | Sí | [Link](https://cran.r-project.org/manuals.html) |
@@ -366,6 +368,17 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 **[⬆ Volver al índice](#índice)**
 
 ## Ruby
+
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Curso Ruby | Lista de reproducción para aprender Ruby | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=fvrphRoN7P0&list=PL954bYq0HsCUG5_LbfZ54YltPinPSPOks&ab_channel=codigofacilito) |
+| Learn Ruby on Rails | Tutorial para aprender Ruby on Rails | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=fmyvWz5TUWg&ab_channel=freeCodeCamp.org) |
+| Ruby Docs | Documentación oficial de R | Documentación | Español | Sí | [Link](https://www.ruby-lang.org/es/documentation/) |
+| Ruby Programming Language | Tutorial de 4 horas de Ruby | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org) |
+| Ruby Tutoriales | Lista de PDFs para aprender Ruby | Libro | Español | Sí | [Link](https://tutorialesenpdf.com/ruby/) |
+
+**[⬆ Volver al índice](#índice)**
+
 
 ## Rust
 
