@@ -373,7 +373,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Curso Ruby | Lista de reproducción para aprender Ruby | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=fvrphRoN7P0&list=PL954bYq0HsCUG5_LbfZ54YltPinPSPOks&ab_channel=codigofacilito) |
 | Learn Ruby on Rails | Tutorial para aprender Ruby on Rails | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=fmyvWz5TUWg&ab_channel=freeCodeCamp.org) |
-| Ruby Docs | Documentación oficial de R | Documentación | Español | Sí | [Link](https://www.ruby-lang.org/es/documentation/) |
+| Ruby Docs | Documentación oficial de Ruby | Documentación | Español | Sí | [Link](https://www.ruby-lang.org/es/documentation/) |
 | Ruby Programming Language | Tutorial de 4 horas de Ruby | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org) |
 | Ruby Tutoriales | Lista de PDFs para aprender Ruby | Libro | Español | Sí | [Link](https://tutorialesenpdf.com/ruby/) |
 
@@ -381,6 +381,19 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 
 ## Rust
+
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| 24 days of Rust | Aprender Rust en 24 días | Documentación | Inglés | Sí | [Link](http://zsiciarz.github.io/24daysofrust/book/vol1/) |
+| Amethyst Documentation | Documentación para aprender a crear videojuegos con Rust | Documentación | Inglés | Sí | [Link](https://book.amethyst.rs/book/stable/) |
+| Rustlings | Reposiorio de ejercicios de Rust | Repositorio | Inglés | Sí | [Link](https://github.com/rust-lang/rustlings) |
+| Rust Crash Course | Tutorial intensivo de Rust | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=zF34dRivLOw&ab_channel=TraversyMedia) |
+| Rust Docs | Documentación oficial de Rust | Documentación | Español | Sí | [Link](https://www.rust-lang.org/es/learn) |
+| Rust en español | Lista de reproducción para aprender Rust | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=KOABboz7PBs&list=PLojDVPvSO1DjYj8bMcMOU3KzLbRww-3Eb&ab_channel=robertohuertasm) |
+| Rust Programming Tutorial | Tutorial para aprender Rust | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&ab_channel=dcode) |
+| Rust Tutorial | Documentación para aprender Rust | Documentación | Inglés | Sí | [Link](http://aml3.github.io/RustTutorial/html/toc.html) |
+
+**[⬆ Volver al índice](#índice)**
 
 ## Scala
 
