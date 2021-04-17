@@ -428,6 +428,20 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 ## Swift
 
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Build your first iOS app with SwiftUI | Tutorial para crear tu primera aplicación con SwitfUI | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=aP-SQXTtWhY&ab_channel=PaulHudson) |
+| MoureDev | Canal de youtube especiaizado en Swift | Tutorial | Español | Sí | [Link](https://www.youtube.com/channel/UCxPD7bsocoAMq8Dj18kmGyQ) |
+| SWIFT 5: Curso de PROGRAMACION desde CERO | Tutorial para aprender Swift | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=P6ko_I5GHbs&ab_channel=MoureDevbyBraisMoure) |
+| Swift 5 Tutorial 2020 | Tutorial para aprender Swift 5 | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=Pd8IvykiW20&ab_channel=DerekBanas) |
+| Swift Docs | Documentación de Swift | Documentación | Español/Inglés | Sí | [Link](https://swift.org/documentation/#the-swift-programming-language) |
+| Swift Tutorial for Beginners | Lista de reproducción para aprender Swift | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=ySa58y1SRy0&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&ab_channel=CodeWithChris) |
+| Swift Tutorial - Full Course for Beginners | Tutoriales de Swift para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=comQ1-x2a1Q&ab_channel=freeCodeCamp.org) |
+| Tutoriales de Swift | Lista de PDFs para aprender Swift | Libro | Español | Sí | [Link](https://tutorialesenpdf.com/swift/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
 # Contribución
 
 Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor. 
