@@ -411,6 +411,21 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 ## SQL
 
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Curso SQL | Lista de reproducción para aprender SQL | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=iOiyJgnN71c&list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn&ab_channel=pildorasinformaticas) |
+| Full Database Course for Beginners | Tutorial de más de 4 horas para aprender SQL | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org) |
+| Learn SQL | Documentación para aprender SQL | Documentación | Inglés | Sí | [Link](https://www.tutorialspoint.com/sql/index.htm) |
+| Learn SQL in 23 Easy Steps | Tutorial corto para aprender SQL | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=Cz3WcZLRaWc&ab_channel=Fireship) |
+| Learn SQL in 60 minutes | Tutorial para aprender SQL en menos de una hora | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=p3qvj9hO_Bo&ab_channel=WebDevSimplified) |
+| MySQL Crash Course | Tutorial intensivo de MySQL | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=9ylj9NR0Lcg&ab_channel=TraversyMedia) |
+| MySQL Tutorial for Beginners | Tutorial de MySQL para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh) |
+| SQL desde cero | Tutoriales para aprender SQL | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=Y1cKmNwriQA&list=PLAzlSdU-KYwWCVG83AWU-9n9_F6wA8kF7&ab_channel=Danisable) |
+| SQL Tutorial | Documentación de SQL con ejemplos | Documentación | Español/Inglés | Sí | [Link](https://www.w3schools.com/sql/) |
+| Tutorial de SQL | Documentación para aprender SQL | Documentación | Español | Sí | [Link](https://desarrolloweb.com/manuales/tutorial-sql.html) |
+
+**[⬆ Volver al índice](#índice)**
+
 ## Swift
 
 # Contribución
