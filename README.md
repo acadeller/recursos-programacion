@@ -86,6 +86,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | C++ For C Programmers | Curso para aprender C++ sabiendo C | Curso | Inglés | Sí | [Link](https://www.coursera.org/learn/c-plus-plus-a#about) |
+| C++ Fundamental | Fundamentos de C++ | Blog | Español | Sí | [Link](https://www.programarya.com/Cursos/C++) |
 | C++ Fundamentals | Curso para aprender C++ para principiantes | Curso | Inglés | No | [Link](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17) |
 | C++ Programming In One Video | Video resumen para entender la sintaxis de C++ | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=raZSmcariyU&t=1s&ab_channel=MikeDane) |
 | C++ Tutorialpoint | Documentación de C++ | Documentación | Inglés | Sí | [Link](https://www.tutorialspoint.com/cplusplus/) |
@@ -95,7 +96,6 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
 | Learn C++ | Documentación de C++ para aprender el lenguaje | Documentación | Inglés | Sí | [Link](https://www.learncpp.com/) |
 | SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
-|C++ Fundamental| Fundamentos de C++ | Blog | Español | Si | [Link](https://www.programarya.com/Cursos/C++)
 
 **[⬆ Volver al índice](#índice)**
 
@@ -226,6 +226,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Build 15 JavaScript Projects | Tutorial para crear 15 proyectos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3PHXvlpOkf4) |
 | CDNJS | Lista de librerías en CDN de JavaScript | Utilidad | Inglés | Sí | [Link](https://cdnjs.com/) |
+| Curso completo de Javascript | Lista de reproducción para aprender Javascript | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA) |
 | Curso Javascript para Principiantes | Tutorial para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=RqQ1d1qEWlE&ab_channel=Fazt) |
 | David Walsh Blog | Blog de JavaScript | Blog | Inglés | Sí | [Link](https://davidwalsh.name/tutorials/javascript) |
 | Desarrollo web| explicación  descriptiva de javascript para empezar y profundizar | Libro | Inglés | Sí | [Link](https://desarrolloweb.com/manuales/manual-javascript.html) |
@@ -245,7 +246,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
 | MDN JavaScript | Documentación de JavaScript | Documentación | Inglés | Sí | [Link](https://developer.mozilla.org/es/docs/Web/JavaScript) |
 | W3schools JavaScript Tutorial | Documentación con ejemplos de JavaScript | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/js/default.asp) |
-| Curso completo de Javascript | Lista de reproducción para aprender Javascript | Tutorial | Español | Sí|[Link](https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA) |
+
 
 **[⬆ Volver al índice](#índice)**
 
@@ -268,6 +269,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Build a Web App with React | Curso para crear una aplicación Web con React | Curso | Inglés | Sí | [Link](https://blog.glitch.com/post/react-starter-kit?ref=java5cript.com) |
+| Curso React | Introducción a React | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk&index=1)
 | Free React Bootcamp | Bootcamp de cuatro días de React | Curso | Inglés | Sí | [Link](https://ui.dev/free-react-bootcamp/?ref=java5cript.com) |
 | Full React Tutorial | Lista de reproducción de tutoriales de React | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&ab_channel=TheNetNinja) |
 | Learn React for free | Curso gratuito para aprender React | Curso | Inglés | Sí | [Link](https://scrimba.com/learn/learnreact?ref=java5cript.com) |
@@ -283,7 +285,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Reintroducing React | Libro de React con toque humorístico | Libro | Inglés | Sí | [Link](https://leanpub.com/reintroducing-react?ref=java5cript.com) |
 | The Beginner's Guide to React | Curso introductorio de React | Curso | Inglés | Sí | [Link](https://egghead.io/courses/the-beginner-s-guide-to-react?ref=java5cript.com) |
 | The React Beginner's Handbook | Libro de React para principiantes | Libro | Inglés | Sí | [Link](https://flaviocopes.com/page/react-handbook/?ref=java5cript.com) |
-| Curso React | Introducción a React | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk&index=1)
+
 
 **[⬆ Volver al índice](#índice)**
 
