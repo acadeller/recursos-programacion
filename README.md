@@ -492,6 +492,7 @@ Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar 
 * [César Álvarez Llaneza](https://github.com/cesaralvrz): Fundador de Acadeller.
 * [Santiago Ramirez](https://github.com/santy-ramirez): Contribuidor.
 * [Rgg7888](https://github.com/rgg7888): Contribuidor.
+* [KodeWeb21](https://github.com/KodeWeb21): Contribuidor.
 
 
 
