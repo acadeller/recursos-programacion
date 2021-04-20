@@ -95,6 +95,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
 | Learn C++ | Documentación de C++ para aprender el lenguaje | Documentación | Inglés | Sí | [Link](https://www.learncpp.com/) |
 | SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
+|C++ Fundamental| Fundamentos de C++ | Blog | Español | Si | [link](https://www.programarya.com/Cursos/C++)
 
 **[⬆ Volver al índice](#índice)**
 
@@ -243,7 +244,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
 | MDN JavaScript | Documentación de JavaScript | Documentación | Inglés | Sí | [Link](https://developer.mozilla.org/es/docs/Web/JavaScript) |
 | W3schools JavaScript Tutorial | Documentación con ejemplos de JavaScript | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/js/default.asp) |
-
+| Curso de completo de Javascript | Lista de reproduccion para aprender Javascript | Tutorial | Español | Sí|[link](https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA) |
 
 **[⬆ Volver al índice](#índice)**
 
