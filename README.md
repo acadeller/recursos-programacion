@@ -284,6 +284,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | The Beginner's Guide to React | Curso introductorio de React | Curso | Inglés | Sí | [Link](https://egghead.io/courses/the-beginner-s-guide-to-react?ref=java5cript.com) |
 | The React Beginner's Handbook | Libro de React para principiantes | Libro | Inglés | Sí | [Link](https://flaviocopes.com/page/react-handbook/?ref=java5cript.com) |
 | Curso React | Introducción a React | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk&index=1)
+
 **[⬆ Volver al índice](#índice)**
 
 ### Vue
