@@ -95,6 +95,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
 | Learn C++ | Documentación de C++ para aprender el lenguaje | Documentación | Inglés | Sí | [Link](https://www.learncpp.com/) |
 | SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
+|C++ Fundamental| Fundamentos de C++ | Blog | Español | Si | [Link](https://www.programarya.com/Cursos/C++)
 
 **[⬆ Volver al índice](#índice)**
 
@@ -195,6 +196,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Learn HTML | Documentación con tutoriales de HTML | Documentación | Inglés | Sí | [Link](https://www.learn-html.org/) |
 | Learn HTML Codeacademy | Curso introductorio de HTML | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-html) |
 | Posts About HTML - Alligator.io| Publicaciones de HTML | Blog | Inglés | Sí | [Link](https://alligator.io/html/) |
+|Curso HTML5 | Tutorial completo de HTML5 | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=vz4z0RLcAyk)
 
 
 **[⬆ Volver al índice](#índice)**
@@ -243,7 +245,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
 | MDN JavaScript | Documentación de JavaScript | Documentación | Inglés | Sí | [Link](https://developer.mozilla.org/es/docs/Web/JavaScript) |
 | W3schools JavaScript Tutorial | Documentación con ejemplos de JavaScript | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/js/default.asp) |
-
+| Curso completo de Javascript | Lista de reproducción para aprender Javascript | Tutorial | Español | Sí|[Link](https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -281,6 +283,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Reintroducing React | Libro de React con toque humorístico | Libro | Inglés | Sí | [Link](https://leanpub.com/reintroducing-react?ref=java5cript.com) |
 | The Beginner's Guide to React | Curso introductorio de React | Curso | Inglés | Sí | [Link](https://egghead.io/courses/the-beginner-s-guide-to-react?ref=java5cript.com) |
 | The React Beginner's Handbook | Libro de React para principiantes | Libro | Inglés | Sí | [Link](https://flaviocopes.com/page/react-handbook/?ref=java5cript.com) |
+| Curso React | Introducción a React | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk&index=1)
 
 **[⬆ Volver al índice](#índice)**
 
