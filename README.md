@@ -86,6 +86,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | C++ For C Programmers | Curso para aprender C++ sabiendo C | Curso | Inglés | Sí | [Link](https://www.coursera.org/learn/c-plus-plus-a#about) |
+| C++ Fundamental | Fundamentos de C++ | Blog | Español | Sí | [Link](https://www.programarya.com/Cursos/C++) |
 | C++ Fundamentals | Curso para aprender C++ para principiantes | Curso | Inglés | No | [Link](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17) |
 | C++ Programming In One Video | Video resumen para entender la sintaxis de C++ | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=raZSmcariyU&t=1s&ab_channel=MikeDane) |
 | C++ Tutorialpoint | Documentación de C++ | Documentación | Inglés | Sí | [Link](https://www.tutorialspoint.com/cplusplus/) |
@@ -195,6 +196,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Learn HTML | Documentación con tutoriales de HTML | Documentación | Inglés | Sí | [Link](https://www.learn-html.org/) |
 | Learn HTML Codeacademy | Curso introductorio de HTML | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-html) |
 | Posts About HTML - Alligator.io| Publicaciones de HTML | Blog | Inglés | Sí | [Link](https://alligator.io/html/) |
+|Curso HTML5 | Tutorial completo de HTML5 | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=vz4z0RLcAyk)
 
 
 **[⬆ Volver al índice](#índice)**
@@ -224,6 +226,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Build 15 JavaScript Projects | Tutorial para crear 15 proyectos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3PHXvlpOkf4) |
 | CDNJS | Lista de librerías en CDN de JavaScript | Utilidad | Inglés | Sí | [Link](https://cdnjs.com/) |
+| Curso completo de Javascript | Lista de reproducción para aprender Javascript | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA) |
 | Curso Javascript para Principiantes | Tutorial para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=RqQ1d1qEWlE&ab_channel=Fazt) |
 | David Walsh Blog | Blog de JavaScript | Blog | Inglés | Sí | [Link](https://davidwalsh.name/tutorials/javascript) |
 | Desarrollo web| explicación  descriptiva de javascript para empezar y profundizar | Libro | Inglés | Sí | [Link](https://desarrolloweb.com/manuales/manual-javascript.html) |
@@ -266,6 +269,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Build a Web App with React | Curso para crear una aplicación Web con React | Curso | Inglés | Sí | [Link](https://blog.glitch.com/post/react-starter-kit?ref=java5cript.com) |
+| Curso React | Introducción a React | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=MPLN1ahXgcs&list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk&index=1)
 | Free React Bootcamp | Bootcamp de cuatro días de React | Curso | Inglés | Sí | [Link](https://ui.dev/free-react-bootcamp/?ref=java5cript.com) |
 | Full React Tutorial | Lista de reproducción de tutoriales de React | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&ab_channel=TheNetNinja) |
 | Learn React for free | Curso gratuito para aprender React | Curso | Inglés | Sí | [Link](https://scrimba.com/learn/learnreact?ref=java5cript.com) |
@@ -281,6 +285,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Reintroducing React | Libro de React con toque humorístico | Libro | Inglés | Sí | [Link](https://leanpub.com/reintroducing-react?ref=java5cript.com) |
 | The Beginner's Guide to React | Curso introductorio de React | Curso | Inglés | Sí | [Link](https://egghead.io/courses/the-beginner-s-guide-to-react?ref=java5cript.com) |
 | The React Beginner's Handbook | Libro de React para principiantes | Libro | Inglés | Sí | [Link](https://flaviocopes.com/page/react-handbook/?ref=java5cript.com) |
+
 
 **[⬆ Volver al índice](#índice)**
 
@@ -329,9 +334,11 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | PHP Docs | Documentación oficial de PHP | Documentación | Español | Sí | [Link](https://www.php.net/manual/es/) |
 | PHP For Absolute Beginners | Tutorial de PHP para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=2eebptXfEvw&ab_channel=TraversyMedia) |
 | PHP Full Course | Tutorial de más de 4 horas de PHP | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=OK_JCtrrv-c&ab_channel=freeCodeCamp.org) |
+| PHP Programa | Sistema de Etiquetas HTML (seh) | Documentación | Español/Inglés | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
 | PHP Tutorial | Serie de tutoriales de PHP desde cero | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o&ab_channel=TheNetNinja) |
-| PHP Programa | Sistema de Etiquetas HTML (seh) | Repositorio | Spanglish | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
-| PHP Template | Practica PHPUnit | Repositorio/video tutorial | Spanish | Sí | [Link](https://github.com/rgg7888/mentos) |
+| PHP Programa | Sistema de Etiquetas HTML (seh) | Repositorio | Español/Inglés | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
+| PHP Template | Practica PHPUnit | Repositorio/video tutorial | Español | Sí | [Link](https://github.com/rgg7888/mentos) |
+
 
 **[⬆ Volver al índice](#índice)**
 
@@ -487,6 +494,8 @@ Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar 
 
 * [César Álvarez Llaneza](https://github.com/cesaralvrz): Fundador de Acadeller.
 * [Santiago Ramirez](https://github.com/santy-ramirez): Contribuidor.
+* [Rgg7888](https://github.com/rgg7888): Contribuidor.
+* [KodeWeb21](https://github.com/KodeWeb21): Contribuidor.
 
 
 
