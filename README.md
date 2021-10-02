@@ -24,6 +24,7 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 - [Comunidad](#comunidad)
 - [Índice](#índice)
 - [Contribución](#contribución)
+- [Entrevistas Técnicas](#entrevistas&#32;técnicas)
 
 # Resumen 
 
@@ -463,9 +464,6 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Respuestas de LeetCode | Recopilación de videos en los que se explican soluciones de LeetCode paso a paso | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-) |
 | Big O Cheatsheet | Cheatsheet con las complejidades de los algoritmos y estructuras de datos más usados | Blog | Inglés | Sí | [Link](https://www.bigocheatsheet.com/) |
 | Práctica entrevistas con más personas | Sitio web en el que puedes prácticar entrevistas con un amigo o con personas online | Blog | Inglés | Sí | [Link](https://www.pramp.com/) |
-
-
-
 
 
 **[⬆ Volver al índice](#índice)**
