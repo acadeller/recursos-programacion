@@ -63,6 +63,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [SQL](#sql)
 * [Swift](#swift)
 * [Entrevistas Técnicas](#entrevistas-técnicas)
+* [Herramientas](#herramientas)
 
 ## C
 
@@ -465,6 +466,69 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Big O Cheatsheet | Cheatsheet con las complejidades de los algoritmos y estructuras de datos más usados | Blog | Inglés | Sí | [Link](https://www.bigocheatsheet.com/) |
 | Práctica entrevistas con más personas | Sitio web en el que puedes prácticar entrevistas con un amigo o con personas online | Blog | Inglés | Sí | [Link](https://www.pramp.com/) |
 
+
+**[⬆ Volver al índice](#índice)**
+
+## Herramientas
+
+### Backend
+
+| Nombre | Descripción | Tipo | Gratuito | Link |
+|---|---|---|---|---|
+| Django | Framework web para Python | Librería | Sí | [Link](https://www.djangoproject.com)
+| Express | Framework web para NodeJS | Librería | Sí | [Link](https://expressjs.com)
+| FastAPI | Framework web para Python | Librería | Sí | [Link](https://fastapi.tiangolo.com)
+| Flask | Framework web para Python | Librería | Sí | [Link](https://flask.palletsprojects.com)
+| Laravel | Framework web para PHP | Librería | Sí | [Link](https://laravel.com)
+| Next | Framework web para NodeJS | Librería | Sí | [Link](https://nextjs.org)
+| Ruby on Rails | Framework web para Ruby | Librería | Sí | [Link](https://rubyonrails.org)
+| Spring | Framework web para Java | Librería | Sí | [Link](https://spring.io)
+| Symfony | Framework web para PHP | Librería | Sí | [Link](https://symfony.com)
+
+**[⬆ Volver al índice](#índice)**
+
+### Bases de datos
+
+| Nombre | Descripción | Tipo | Gratuito | Link |
+|---|---|---|---|---|
+| Memcached | Almacenamiento en memoria, usada como caché | Clave-valor | Sí | [Link](http://www.memcached.org)
+| MongoDB | Base de datos orientada a documentos | Documento | Sí | [Link](https://www.mongodb.com)
+| MySQL | Base de datos relacional | Relacional | Sí | [Link](https://www.mysql.com)
+| Neo4j | Base de datos distribuída y de alto rendimiento | Grafos | Sí | [Link](https://neo4j.com)
+| PostgreSQL | De las bases de datos más usadas hoy en día | Relacional | Sí | [Link](https://www.postgresql.org)
+| Redis | Almacenamiento en memoria de alto rendimiento | Clave-valor | Sí | [Link](https://redis.io)
+| SQLite | Embebible, muy usada en dispositivos móviles | Relacional | Sí | [Link](https://www.sqlite.org)
+
+**[⬆ Volver al índice](#índice)**
+
+### Editores de código
+
+| Nombre | Descripción | Gratuito | Link |
+|---|---|---|---|
+| Atom | Entorno de desarrollo integrado | Sí | [Link](https://atom.io)
+| Intellij Idea | Entorno de desarrollo integrado | No | [Link](https://www.jetbrains.com/idea)
+| Kakoune | Editor de código para la terminal con manipulación de texto avanzado | Sí | [Link](https://kakoune.org)
+| Sublime Text | Editor de text ligero | No | [Link](https://www.sublimetext.com)
+| Vim | Editor de texto para la terminal | Sí | [Link](https://www.vim.org)
+| Visual Studio Code | Entorno de desarrollo integrado extensible | Sí | [Link](https://code.visualstudio.com/)
+
+**[⬆ Volver al índice](#índice)**
+
+### Frontend
+
+| Nombre | Descripción | Tipo | Gratuito | Link |
+|---|---|---|---|---|
+| Angular | Framework web para JS | Librería | Sí | [Link](https://angular.io)
+| Bootstrap | Framework para CSS | Librería | Sí | [Link](https://getbootstrap.com)
+| Bulma | Framework para CSS | Librería | Sí | [Link](https://bulma.io)
+| Gatsby | Generador de sitios estáticos | Librería | Sí | [Link](https://www.gatsbyjs.com)
+| Less | Preprocesador CSS | Librería | Sí | [Link](https://lesscss.org)
+| React | Framework web para JS | Librería | Sí | [Link](https://reactjs.org)
+| Sass | Preprocesador CSS | Librería | Sí | [Link](https://sass-lang.com)
+| Semantic UI | Framework para CSS | Librería | Sí | [Link](https://semantic-ui.com)
+| Svelte | Framework web para JS | Librería | Sí | [Link](https://svelte.dev)
+| Tailwind | Framework para CSS | Librería | Sí | [Link](https://tailwindcss.com)
+| Vue | Framework para web JS | Librería | Sí | [Link](https://vuejs.org)
 
 **[⬆ Volver al índice](#índice)**
 
