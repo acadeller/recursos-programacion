@@ -24,7 +24,6 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 - [Comunidad](#comunidad)
 - [Índice](#índice)
 - [Contribución](#contribución)
-- [Entrevistas Técnicas](#entrevistas&#32;técnicas)
 
 # Resumen 
 
@@ -63,6 +62,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [Scala](#scala)
 * [SQL](#sql)
 * [Swift](#swift)
+* [Entrevistas Técnicas](#entrevistas-técnicas)
 
 ## C
 
