@@ -451,6 +451,25 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 **[⬆ Volver al índice](#índice)**
 
+## Entrevistas Técnicas
+
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Cracking the coding interview | Libro con todo lo que necesitas saber de las entrevistas técnicas | Libro | Inglés | Sí | [Link](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) |
+| Mock coding interview | Ejemplos de entrevistas técnicas | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLJmKHshC7qJlO8VC3e9J8Z5WH42hALV6x) |
+| Leetcode | Página web en la que puedes prácticar para entrevistas técnicas | Blog | Inglés | Sí | [Link](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) |
+| Preguntas de entrevistas técnicas | Recopilación de videos de preguntas de entrevistas técnicas | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI) |
+| Respuestas de LeetCode | Recopilación de videos en los que se explican soluciones de LeetCode paso a paso | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-) |
+| Respuestas de LeetCode | Recopilación de videos en los que se explican soluciones de LeetCode paso a paso | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-) |
+| Big O Cheatsheet | Cheatsheet con las complejidades de los algoritmos y estructuras de datos más usados | Blog | Inglés | Sí | [Link](https://www.bigocheatsheet.com/) |
+| Práctica entrevistas con más personas | Sitio web en el que puedes prácticar entrevistas con un amigo o con personas online | Blog | Inglés | Sí | [Link](https://www.pramp.com/) |
+
+
+
+
+
+**[⬆ Volver al índice](#índice)**
+
 # Contribución
 
 Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor. 
