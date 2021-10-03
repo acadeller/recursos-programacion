@@ -347,7 +347,10 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| Automate the Boring Stuff with Python | EBook para aprender Pythin | Libro | Inglés | Sí | [Link](https://automatetheboringstuff.com/) |
+| Pydon'ts (by Rodrigo Girao) | Ebook to write elegant Python code | Libro | Inglés | Si |[Link](https://mathspp.com/blog/pydonts) |
+| Python Crash Course (by Eric Matthes)| Buen libro de referencia para aprender Python partiendo de cero| Libro | Inglés | Si |[Link](https://ehmatthes.github.io/pcc/) |
+| Python Tricks: A buffet of awesome Python features (by Dan Bader)| Buen libro de referencia para Python, nivel intermedio | Libro | Inglés | No |[Link](https://realpython.com/products/python-tricks-book/) |
+| Automate the Boring Stuff with Python | EBook para aprender Python | Libro | Inglés | Sí | [Link](https://automatetheboringstuff.com/) |
 | Curso de Python desde cero | Lista de reproducción para aprender Python | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&ab_channel=pildorasinformaticas) |
 | Curso Python para Principiantes | Tutorial de Python desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=chPhlsHoEPo&ab_channel=Fazt) |
 | Dive into Python 3 | Libro online para aprender Python | Libro | Inglés | Sí | [Link](https://diveintopython3.net/) |
