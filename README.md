@@ -361,6 +361,13 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Python for Everybody | Recolección de materiales para aprender Python | Documentación | Inglés | Sí | [Link](https://www.py4e.com/) |
 | Python Programming | Documentación con tutoriales de Python | Documentación | Inglés | Sí | [Link](https://pythonprogramming.net/) |
 | W3schools Python Tutorial | Documentación con ejemplos de Python | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/python/default.asp) |
+| Tutorial de Python en español | Tutorial oficial de Python | Tutorial | Español | Sí | [Link](https://tutorial.python.org.ar/en/latest/) |
+| Curso de Python científico en español | De cero a las bases de Python científico | Tutorial | Español | Sí | [Link](https://github.com/brivadeneira/curso-python-cientifico-ing-unrc) |
+| Curso de Python de propósito general |  De cero a las bases de Python | Tutorial | Español | Sí | [Link](https://github.com/brivadeneira/curso-python-rio4) |
+| Python para principiantes 🐍 Curso GRATIS desde cero | Desde Afi Escuela de Finanzas ponemos a disposición el curso gratuito de Python impartido por Javier Calderón, Consultor del Área de Finanzas Cuantitativas de Afi.  | Video Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=BrJE-4euNn0) |
+| Aprende python desde cero. Primeros pasos. |  De programador para programadores: empieza en el mundo de Python con este curso | Curso en udemy | Español | Sí | [Link](https://www.udemy.com/course/aprende-python-desde-cero-primeros-pasos/?referralCode=285241350DB6117A362D) |
+| Analyzing Data with Python |  In this course, you will learn how to analyze data in Python using multi-dimensional arrays in numpy, manipulate DataFrames in pandas, use SciPy library of mathematical routines, and perform machine learning using scikit-learn! | Curso online | Inglés | Sí | [Link](https://www.edx.org/course/analyzing-data-with-python) |
+| Aprende a Programar en Python Desde Cero |  Curso Completo Gratis de 4.5+ Horas | Curso online | Español | Sí | [Link](https://youtu.be/DLikpfc64cA) |
 
 **[⬆ Volver al índice](#índice)**
 
