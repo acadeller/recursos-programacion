@@ -1,6 +1,6 @@
-<div align="center"> 
+<div align="center">
 
-# Recursos de Programación 
+# Recursos de Programación
 
 ![Acadeller - Recursos de Programación](http://i.imgur.com/5fhhRTw.png)
 
@@ -25,7 +25,7 @@ Creado por: [Acadeller](https://github.com/Acadeller)
 - [Índice](#índice)
 - [Contribución](#contribución)
 
-# Resumen 
+# Resumen
 
 [Acadeller](https://github.com/Acadeller) es una comunidad creada para impulsar a las personas en el mundo del desarrollo de software. Que empezó siendo una pequeña cuenta de Instagram que hacía publicaciones sobre programación. A día de hoy contamos con más de 15.000 seguidores en nuestras redes sociales, pero nuestro objetivo sigue siendo el mismo: ***ayudar a a la gente a aprender programación.***
 
@@ -33,9 +33,9 @@ Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la 
 
 Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo de [esta manera](#contribución).
 
-# Comunidad 
+# Comunidad
 
-- Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación 
+- Puedes seguirnos en nuestra cuenta de [Instagram](https://www.instagram.com/acadeller/) para ver publicaciones sobre programación
 - ¡Tenemos un servidor de Discord! Aquí podras compartir tus experiencias y conocer a otros desarrolladores [Únete al Discord de Acadeller](https://discord.com/invite/9vvcTTC) <a href="https://discord.com/invite/9vvcTTC">
     		<img src="https://img.shields.io/discord/715323337240477707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
   	</a>
@@ -44,7 +44,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
   	</a>
 - También puedes ver nuestro contenido en [Linkedin](https://www.linkedin.com/company/68485158).
 
-# Índice 
+# Índice
 
 * [C](#c)
 * [CSS](#css)
@@ -63,6 +63,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [SQL](#sql)
 * [Swift](#swift)
 * [Entrevistas Técnicas](#entrevistas-técnicas)
+* [Herramientas](#herramientas)
 
 ## C
 
@@ -468,11 +469,74 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 **[⬆ Volver al índice](#índice)**
 
+## Herramientas
+
+### Backend
+
+| Nombre | Descripción | Tipo | Gratuito | Link |
+|---|---|---|---|---|
+| Django | Framework web para Python | Librería | Sí | [Link](https://www.djangoproject.com)
+| Express | Framework web para NodeJS | Librería | Sí | [Link](https://expressjs.com)
+| FastAPI | Framework web para Python | Librería | Sí | [Link](https://fastapi.tiangolo.com)
+| Flask | Framework web para Python | Librería | Sí | [Link](https://flask.palletsprojects.com)
+| Laravel | Framework web para PHP | Librería | Sí | [Link](https://laravel.com)
+| Next | Framework web para NodeJS | Librería | Sí | [Link](https://nextjs.org)
+| Ruby on Rails | Framework web para Ruby | Librería | Sí | [Link](https://rubyonrails.org)
+| Spring | Framework web para Java | Librería | Sí | [Link](https://spring.io)
+| Symfony | Framework web para PHP | Librería | Sí | [Link](https://symfony.com)
+
+**[⬆ Volver al índice](#índice)**
+
+### Bases de datos
+
+| Nombre | Descripción | Tipo | Gratuito | Link |
+|---|---|---|---|---|
+| Memcached | Almacenamiento en memoria, usada como caché | Clave-valor | Sí | [Link](http://www.memcached.org)
+| MongoDB | Base de datos orientada a documentos | Documento | Sí | [Link](https://www.mongodb.com)
+| MySQL | Base de datos relacional | Relacional | Sí | [Link](https://www.mysql.com)
+| Neo4j | Base de datos distribuída y de alto rendimiento | Grafos | Sí | [Link](https://neo4j.com)
+| PostgreSQL | De las bases de datos más usadas hoy en día | Relacional | Sí | [Link](https://www.postgresql.org)
+| Redis | Almacenamiento en memoria de alto rendimiento | Clave-valor | Sí | [Link](https://redis.io)
+| SQLite | Embebible, muy usada en dispositivos móviles | Relacional | Sí | [Link](https://www.sqlite.org)
+
+**[⬆ Volver al índice](#índice)**
+
+### Editores de código
+
+| Nombre | Descripción | Gratuito | Link |
+|---|---|---|---|
+| Atom | Entorno de desarrollo integrado | Sí | [Link](https://atom.io)
+| Intellij Idea | Entorno de desarrollo integrado | No | [Link](https://www.jetbrains.com/idea)
+| Kakoune | Editor de código para la terminal con manipulación de texto avanzado | Sí | [Link](https://kakoune.org)
+| Sublime Text | Editor de text ligero | No | [Link](https://www.sublimetext.com)
+| Vim | Editor de texto para la terminal | Sí | [Link](https://www.vim.org)
+| Visual Studio Code | Entorno de desarrollo integrado extensible | Sí | [Link](https://code.visualstudio.com/)
+
+**[⬆ Volver al índice](#índice)**
+
+### Frontend
+
+| Nombre | Descripción | Tipo | Gratuito | Link |
+|---|---|---|---|---|
+| Angular | Framework web para JS | Librería | Sí | [Link](https://angular.io)
+| Bootstrap | Framework para CSS | Librería | Sí | [Link](https://getbootstrap.com)
+| Bulma | Framework para CSS | Librería | Sí | [Link](https://bulma.io)
+| Gatsby | Generador de sitios estáticos | Librería | Sí | [Link](https://www.gatsbyjs.com)
+| Less | Preprocesador CSS | Librería | Sí | [Link](https://lesscss.org)
+| React | Framework web para JS | Librería | Sí | [Link](https://reactjs.org)
+| Sass | Preprocesador CSS | Librería | Sí | [Link](https://sass-lang.com)
+| Semantic UI | Framework para CSS | Librería | Sí | [Link](https://semantic-ui.com)
+| Svelte | Framework web para JS | Librería | Sí | [Link](https://svelte.dev)
+| Tailwind | Framework para CSS | Librería | Sí | [Link](https://tailwindcss.com)
+| Vue | Framework para web JS | Librería | Sí | [Link](https://vuejs.org)
+
+**[⬆ Volver al índice](#índice)**
+
 # Contribución
 
-Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor. 
+Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor.
 
-Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es aportar a la comunidad, no hacer un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas. 
+Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es aportar a la comunidad, no hacer un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas.
 
 ## ¿Cómo contribuir al repositorio? 🤝
 
