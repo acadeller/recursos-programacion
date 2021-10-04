@@ -62,6 +62,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [Scala](#scala)
 * [SQL](#sql)
 * [Swift](#swift)
+* [Kubernetes](#Kubernetes)
 * [Entrevistas Técnicas](#entrevistas-técnicas)
 * [Herramientas](#herramientas)
 
@@ -374,6 +375,8 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Aprende python desde cero. Primeros pasos. |  De programador para programadores: empieza en el mundo de Python con este curso | Curso en udemy | Español | Sí | [Link](https://www.udemy.com/course/aprende-python-desde-cero-primeros-pasos/?referralCode=285241350DB6117A362D) |
 | Analyzing Data with Python |  In this course, you will learn how to analyze data in Python using multi-dimensional arrays in numpy, manipulate DataFrames in pandas, use SciPy library of mathematical routines, and perform machine learning using scikit-learn! | Curso online | Inglés | Sí | [Link](https://www.edx.org/course/analyzing-data-with-python) |
 | Aprende a Programar en Python Desde Cero |  Curso Completo Gratis de 4.5+ Horas | Curso online | Español | Sí | [Link](https://youtu.be/DLikpfc64cA) |
+| Python Django Crash Course 2021 | curso con conceptos básicos que le ayudarán a aprender y dominar Django para un desarrollo web rápido | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=IHTP8-KskcQ) |
+| Python FastAPI Web Framework Tuturial | En este tutorial, damos un primer vistazo a la construcción de una API con FastAPI | Tururial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=NH4VZaP3_9s&list=PLOLrQ9Pn6cay_BE9pz1djcqW0-p2QiRUx) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -461,6 +464,17 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Swift Tutorial for Beginners | Lista de reproducción para aprender Swift | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=ySa58y1SRy0&list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX&ab_channel=CodeWithChris) |
 | Swift Tutorial - Full Course for Beginners | Tutoriales de Swift para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=comQ1-x2a1Q&ab_channel=freeCodeCamp.org) |
 | Tutoriales de Swift | Lista de PDFs para aprender Swift | Libro | Español | Sí | [Link](https://tutorialesenpdf.com/swift/) |
+
+
+**[⬆ Volver al índice](#índice)**
+
+## Kubernetes
+
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Docker and Kubernetes Tutorial Full Course [2021] | Completo tutorial de Docker y Kubernetes para principiapntes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=bhBSlnQcq2k&t=4888s) |
+| ¿QUE ES KUBERNETES?| Introducción a Kubernetes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=oTf0KxK1QNo&list=PLqRCtm0kbeHA5M_E_Anwu-vh4NWlgrOY_s) |
+
 
 
 **[⬆ Volver al índice](#índice)**
