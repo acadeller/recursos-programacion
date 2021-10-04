@@ -347,6 +347,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| 🐍 El Libro de Python 🐍 | Libro Online | Libro | Español | Sí | [Link](https://ellibrodepython.com/) |
 | Automate the Boring Stuff with Python | EBook para aprender Pythin | Libro | Inglés | Sí | [Link](https://automatetheboringstuff.com/) |
 | Curso de Python desde cero | Lista de reproducción para aprender Python | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&ab_channel=pildorasinformaticas) |
 | Curso Python para Principiantes | Tutorial de Python desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=chPhlsHoEPo&ab_channel=Fazt) |
