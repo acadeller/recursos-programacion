@@ -349,7 +349,6 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-
 | 🐍 El Libro de Python 🐍 | Libro Online | Libro | Español | Sí | [Link](https://ellibrodepython.com/) |
 | Pydon'ts (by Rodrigo Girao) | Ebook to write elegant Python code | Libro | Inglés | Si |[Link](https://mathspp.com/blog/pydonts) |
 | Python Crash Course (by Eric Matthes)| Buen libro de referencia para aprender Python partiendo de cero| Libro | Inglés | Si |[Link](https://ehmatthes.github.io/pcc/) |
