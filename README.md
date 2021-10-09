@@ -60,6 +60,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
+* [Solidity](#solidity)
 * [SQL](#sql)
 * [Swift](#swift)
 * [Kubernetes](#Kubernetes)
@@ -431,6 +432,23 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Scala Docs | Documentación oficial de Scala | Documentación | Inglés | Sí | [Link](https://docs.scala-lang.org/?_ga=2.153216184.1809149693.1618661551-1561653874.1618661551) |
 | Scala Tutorial | Tutorial para aprender Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=DzFt0YkZo8M&ab_channel=DerekBanas) |
 | Scala Tutorial Full Course | Tutorial para principiantes de Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=i9o70PMqMGY&ab_channel=Telusko) |
+
+**[⬆ Volver al índice](#índice)**
+
+## Solidity
+
+|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Solidity Docs | Documentación oficial de Solidity | Documentación | Inglés | Sí | [Link](https://docs.soliditylang.org/en/v0.8.9/) |
+| Repositorio Solidity | Repositorio oficial de Solidity | Repositorio | Inglés | Sí | [Link](https://github.com/ethereum/solidity/blob/v0.8.9/docs/index.rst) |
+| Solidity Tutorial | Canal de Youtube especializado en Solidity | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=ipwxYa-F1uY&ab_channel=freeCodeCamp.org) |
+| Solidity en 2 minutos | Explicación básica de solidity en 2 minutos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3i203iTmcFc&ab_channel=Cryptografi) |
+| Solidity CRUD, Tu primer Smart Contract en Remix IDE | Tutorial para realizar un CRUD con Solidity  | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=JP-dzoDmJFw&ab_channel=FaztCode) |
+| Solidity Tutorial | Array, Mapping y Struct en Solidity | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=_PbU9TE_7bY&ab_channel=AlbertoLasa-Blockchain) |
+| Solidity Tutorial Dapp desde cero | Como crear una Dapp desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=t10BiFG9Dfc&ab_channel=AlbertoLasa-Blockchain) |
+| Solidity Tutorial | Tutorial básico de | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=UujjTmkjWI8&ab_channel=NicolasPalacios) |
+| Aprendiendo Solidity | Tutorial básico para aprender Solidity | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg&ab_channel=WillitScale) |
+| Foro Solidity | Foro oficial de Solidity | Foro | Inglés | Sí | [Link](https://forum.soliditylang.org/) |
 
 **[⬆ Volver al índice](#índice)**
 
