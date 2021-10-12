@@ -89,6 +89,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| C++ for beginners | Tutorial para aprender C++ para principiantes | Tutorial | Español | Sí | [link](https://www.youtube.com/playlist?list=PL43pGnjiVwgQHLPnuH9ch-LhZdwckM8Tq) |
 | C++ For C Programmers | Curso para aprender C++ sabiendo C | Curso | Inglés | Sí | [Link](https://www.coursera.org/learn/c-plus-plus-a#about) |
 | C++ Fundamental | Fundamentos de C++ | Blog | Español | Sí | [Link](https://www.programarya.com/Cursos/C++) |
 | C++ Fundamentals | Curso para aprender C++ para principiantes | Curso | Inglés | No | [Link](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17) |
@@ -99,6 +100,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | cplusplus | Documentación detallada de C++ | Documentación | Inglés | sí | [Link](http://www.cplusplus.com/) |
 | Google C++ Style Guide | Documentación de C++ de Google | Documentación | Inglés | Sí | [Link](https://google.github.io/styleguide/cppguide.html) |
 | Learn C++ | Documentación de C++ para aprender el lenguaje | Documentación | Inglés | Sí | [Link](https://www.learncpp.com/) |
+| Programación en C++ | Aprende programación en C++| Tutorial | Español | Sí | [Link](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh) |
 | SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
 
 **[⬆ Volver al índice](#índice)**
@@ -359,6 +361,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Curso Python para Principiantes | Tutorial de Python desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=chPhlsHoEPo&ab_channel=Fazt) |
 | Dive into Python 3 | Libro online para aprender Python | Libro | Inglés | Sí | [Link](https://diveintopython3.net/) |
 | Fullstackpython | Crear, implementar y operar aplicaciones de Python | Blog | Inglés | Sí | [Link](https://www.fullstackpython.com/) |
+| Intro a programación con Python | Tutorial de Python | Repositorio | Español | Sí | [Link](https://github.com/RodolfoFerro/python-innovaccion) |
 | Learn Python | Documentación de Python | Documentación | Inglés | Sí | [Link](https://www.learnpython.org/) |
 | Learn Python Course | Tutorial para principiantes de Python | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=rfscVS0vtbw&t=24s&ab_channel=freeCodeCamp.org) |
 | Python Basics | Documentación para aprender Python | Documentación | Inglés | Sí | [Link](https://pythonbasics.org/) |
