@@ -630,6 +630,7 @@ Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar 
 * [devjaime](https://github.com/devjaime): Contribuidor.
 * [ellibrodepython](https://github.com/ellibrodepython): Contribuidor.
 * [IvySaskia](https://github.com/IvySaskia): Contribuidor.
+* [Rafael de Luna](https://github.com/RDLL): Contribuidor.
 
 
 
