@@ -344,7 +344,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | PHP Template | Practica PHPUnit | Repositorio/video tutorial | Español | Sí | [Link](https://github.com/rgg7888/mentos) |
 | PHP Tutorial | Serie de tutoriales de PHP desde cero | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o&ab_channel=TheNetNinja) |
 | PHP Programa | Sistema de Etiquetas HTML (seh) | Repositorio | Español/Inglés | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
-
+| PHP and MySQL Web Development | Libro Online | Libro | Inglés | Sí | [Link](https://drive.google.com/file/d/1rKbdAswnJXCQUqOm3PxREnNVV_hIdT-c/view?usp=sharing) |
 
 **[⬆ Volver al índice](#índice)**
 
