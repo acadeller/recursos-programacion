@@ -336,6 +336,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Curso PHP MySQL | Series de tutoriales de PHP y MySQL | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=I75CUdSJifw&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_&ab_channel=pildorasinformaticas) |
 | Curso PHP 2020 | Lista de reproducción para aprender PHP | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=vXf5gaozWcc&list=PLg9145ptuAij8vIQLU25f7sUSH4E8pdY5&ab_channel=yacklyon) |
 | Learn PHP | Documentación con tutoriales de PHP | Documentación | Inglés | Sí | [Link](https://www.learn-php.org/) |
+| PHP and MySQL Web Development | Libro Online | Libro | Inglés | Sí | [Link](https://drive.google.com/file/d/1rKbdAswnJXCQUqOm3PxREnNVV_hIdT-c/view?usp=sharing) |
 | PHP Cheatsheet | Cheatsheet de PHP | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/php.php) |
 | PHP Docs | Documentación oficial de PHP | Documentación | Español | Sí | [Link](https://www.php.net/manual/es/) |
 | PHP For Absolute Beginners | Tutorial de PHP para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=2eebptXfEvw&ab_channel=TraversyMedia) |
@@ -344,7 +345,6 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | PHP Template | Practica PHPUnit | Repositorio/video tutorial | Español | Sí | [Link](https://github.com/rgg7888/mentos) |
 | PHP Tutorial | Serie de tutoriales de PHP desde cero | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o&ab_channel=TheNetNinja) |
 | PHP Programa | Sistema de Etiquetas HTML (seh) | Repositorio | Español/Inglés | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
-
 
 **[⬆ Volver al índice](#índice)**
 
