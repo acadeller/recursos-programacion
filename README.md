@@ -509,7 +509,6 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Mock coding interview | Ejemplos de entrevistas técnicas | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLJmKHshC7qJlO8VC3e9J8Z5WH42hALV6x) |
 | Preguntas de entrevistas técnicas | Recopilación de videos de preguntas de entrevistas técnicas | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI) |
 | Respuestas de LeetCode | Recopilación de videos en los que se explican soluciones de LeetCode paso a paso | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-) |
-| Respuestas de LeetCode | Recopilación de videos en los que se explican soluciones de LeetCode paso a paso | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-) |
 | Práctica entrevistas con más personas | Sitio web en el que puedes prácticar entrevistas con un amigo o con personas online | Blog | Inglés | Sí | [Link](https://www.pramp.com/) |
 
 
