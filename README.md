@@ -194,6 +194,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Build a Website Tutorial | Tutorial de HTML creando una página web | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org) |
 | Curso de HTML5 desde CERO | Tutorial desde cero de HTML | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=kN1XP-Bef7w&ab_channel=SoyDalto) |
 | Curso HTML para Principiantes | Tutorial en español de HTML para principiantes | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=rbuYtrNUxg4&ab_channel=Fazt) |
+| Curso HTML5 | Tutorial completo de HTML5 | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=vz4z0RLcAyk)
 | HTML and CSS Tutorial for 2021 | Curso de HTML y CSS actualizado | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse) |
 | HTML Cheatsheet | Cheatsheet de HTML | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/html5.html) |
 | HTML Crash Course For Absolute Beginners | Tutorial para principiantes de HTML | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=UB1O30fR-EE&ab_channel=TraversyMedia) |
@@ -202,7 +203,6 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Learn HTML | Documentación con tutoriales de HTML | Documentación | Inglés | Sí | [Link](https://www.learn-html.org/) |
 | Learn HTML Codeacademy | Curso introductorio de HTML | Curso | Inglés | Sí | [Link](https://www.codecademy.com/learn/learn-html) |
 | Posts About HTML - Alligator.io| Publicaciones de HTML | Blog | Inglés | Sí | [Link](https://alligator.io/html/) |
-|Curso HTML5 | Tutorial completo de HTML5 | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=vz4z0RLcAyk)
 
 
 **[⬆ Volver al índice](#índice)**
@@ -238,15 +238,15 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Desarrollo web| explicación  descriptiva de javascript para empezar y profundizar | Libro | Inglés | Sí | [Link](https://desarrolloweb.com/manuales/manual-javascript.html) |
 | Eloquent JavaScript | Libro introductorio de JavaScript | Libro | Inglés | Sí | [Link](https://eloquentjavascript.net/) |
 | Front End Development Libraries | Curso interactivo de librerías frontend | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/front-end-libraries/) |
-| JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 | JavaScript Algorithms and Data Structures | Curso interactivo de JavaScript | Curso | Inglés | Sí | [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
 | JavaScript Cheatsheet | Cheatsheet de JavaScript | Cheatsheet | Inglés | Sí | [Link](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/javascript.js) |
 | JavaScript Code Examples | Ejemplos de código de JavaScript | Ejemplos | Inglés | Sí | [Link](https://freefrontend.com/javascript-code-examples/#sitemap-examples) |
 | JavaScript Crash Course For Beginners | Tutorial corto para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia) |
 | JavaScript Info | Documentación muy estructurada | Documentación | Inglés | Sí | [Link](https://javascript.info/) |
 | JavaScript tutorial|API web proporcionadas por javascript | Documentación | Inglés | Sí | [Link](https://www.javascripttutorial.net/web-apis/ ) |
+| JavaScript30 | Desafío de 30 días de JavaScript | Desafío | Inglés | Sí | [Link](https://javascript30.com/) |
 | Javatpoint : javaScript | Documentación de JavaScript de básico a abanzado | Documentación | Inglés | Sí | [Link](https://www.javatpoint.com/javascript-tutorial) |
-| Html DOM | Administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
+| HTML DOM | Administrar HTML DOM con JavaScript vainilla |  Documentación  | Inglés | Sí | [Link](https://htmldom.dev/) |
 | Learn javaScript| teoría y ejercicios de javaScript | Blog | Inglés | Sí | [Link](https://www.learn-js.org) |
 | Learn JavaScript - Full Course for Beginners | Tutorial de JavaScript para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org) |
 | Lenguaje JavaScript | Documentación de JavaScript en español | Documentación | Español | Sí | [Link](https://lenguajejs.com/javascript/) |
@@ -342,9 +342,9 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | PHP For Absolute Beginners | Tutorial de PHP para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=2eebptXfEvw&ab_channel=TraversyMedia) |
 | PHP Full Course | Tutorial de más de 4 horas de PHP | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=OK_JCtrrv-c&ab_channel=freeCodeCamp.org) |
 | PHP Programa | Sistema de Etiquetas HTML (seh) | Documentación | Español/Inglés | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
+| PHP Programa | Sistema de Etiquetas HTML (seh) | Repositorio | Español/Inglés | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
 | PHP Template | Practica PHPUnit | Repositorio/video tutorial | Español | Sí | [Link](https://github.com/rgg7888/mentos) |
 | PHP Tutorial | Serie de tutoriales de PHP desde cero | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=pWG7ajC_OVo&list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o&ab_channel=TheNetNinja) |
-| PHP Programa | Sistema de Etiquetas HTML (seh) | Repositorio | Español/Inglés | Sí | [Link](https://packagist.org/packages/ramirogg/seh) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -353,10 +353,12 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | 🐍 El Libro de Python 🐍 | Libro Online | Libro | Español | Sí | [Link](https://ellibrodepython.com/) |
-| Pydon'ts (by Rodrigo Girao) | Ebook to write elegant Python code | Libro | Inglés | Si |[Link](https://mathspp.com/blog/pydonts) |
-| Python Crash Course (by Eric Matthes)| Buen libro de referencia para aprender Python partiendo de cero| Libro | Inglés | Si |[Link](https://ehmatthes.github.io/pcc/) |
-| Python Tricks: A buffet of awesome Python features (by Dan Bader)| Buen libro de referencia para Python, nivel intermedio | Libro | Inglés | No |[Link](https://realpython.com/products/python-tricks-book/) |
+| Analyzing Data with Python |  In this course, you will learn how to analyze data in Python using multi-dimensional arrays in numpy, manipulate DataFrames in pandas, use SciPy library of mathematical routines, and perform machine learning using scikit-learn! | Curso online | Inglés | Sí | [Link](https://www.edx.org/course/analyzing-data-with-python) |
+| Aprende python desde cero. Primeros pasos. |  De programador para programadores: empieza en el mundo de Python con este curso | Curso en udemy | Español | Sí | [Link](https://www.udemy.com/course/aprende-python-desde-cero-primeros-pasos/?referralCode=285241350DB6117A362D) |
+| Aprende a Programar en Python Desde Cero |  Curso Completo Gratis de 4.5+ Horas | Curso online | Español | Sí | [Link](https://youtu.be/DLikpfc64cA) |
 | Automate the Boring Stuff with Python | EBook para aprender Python | Libro | Inglés | Sí | [Link](https://automatetheboringstuff.com/) |
+| Curso de Python científico en español | De cero a las bases de Python científico | Tutorial | Español | Sí | [Link](https://github.com/brivadeneira/curso-python-cientifico-ing-unrc) |
+| Curso de Python de propósito general |  De cero a las bases de Python | Tutorial | Español | Sí | [Link](https://github.com/brivadeneira/curso-python-rio4) |
 | Curso de Python desde cero | Lista de reproducción para aprender Python | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&ab_channel=pildorasinformaticas) |
 | Curso Python para Principiantes | Tutorial de Python desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=chPhlsHoEPo&ab_channel=Fazt) |
 | Dive into Python 3 | Libro online para aprender Python | Libro | Inglés | Sí | [Link](https://diveintopython3.net/) |
@@ -364,22 +366,20 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Intro a programación con Python | Tutorial de Python | Repositorio | Español | Sí | [Link](https://github.com/RodolfoFerro/python-innovaccion) |
 | Learn Python | Documentación de Python | Documentación | Inglés | Sí | [Link](https://www.learnpython.org/) |
 | Learn Python Course | Tutorial para principiantes de Python | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=rfscVS0vtbw&t=24s&ab_channel=freeCodeCamp.org) |
+| Pydon'ts (by Rodrigo Girao) | Ebook to write elegant Python code | Libro | Inglés | Si |[Link](https://mathspp.com/blog/pydonts) |
 | Python Basics | Documentación para aprender Python | Documentación | Inglés | Sí | [Link](https://pythonbasics.org/) |
 | Python Books | Librería de libros gratuitos de Python | Libro | Inglés | Sí | [Link](https://pythonbooks.revolunet.com/) |
+| Python Crash Course (by Eric Matthes)| Buen libro de referencia para aprender Python partiendo de cero| Libro | Inglés | Si |[Link](https://ehmatthes.github.io/pcc/) |
+| Python Django Crash Course 2021 | curso con conceptos básicos que le ayudarán a aprender y dominar Django para un desarrollo web rápido | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=IHTP8-KskcQ) |
 | Python Docs | Documentación oficial de Python | Documentación | Español | Sí | [Link](https://docs.python.org/es/3/) |
+| Python FastAPI Web Framework Tuturial | En este tutorial, damos un primer vistazo a la construcción de una API con FastAPI | Tururial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=NH4VZaP3_9s&list=PLOLrQ9Pn6cay_BE9pz1djcqW0-p2QiRUx) |
 | Python for Beginners | Tutorial de 6 horas de Python para principiantes | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=4s&ab_channel=ProgrammingwithMosh) |
 | Python for Everybody | Recolección de materiales para aprender Python | Documentación | Inglés | Sí | [Link](https://www.py4e.com/) |
-| Python Programming | Documentación con tutoriales de Python | Documentación | Inglés | Sí | [Link](https://pythonprogramming.net/) |
-| W3schools Python Tutorial | Documentación con ejemplos de Python | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/python/default.asp) |
-| Tutorial de Python en español | Tutorial oficial de Python | Tutorial | Español | Sí | [Link](https://tutorial.python.org.ar/en/latest/) |
-| Curso de Python científico en español | De cero a las bases de Python científico | Tutorial | Español | Sí | [Link](https://github.com/brivadeneira/curso-python-cientifico-ing-unrc) |
-| Curso de Python de propósito general |  De cero a las bases de Python | Tutorial | Español | Sí | [Link](https://github.com/brivadeneira/curso-python-rio4) |
 | Python para principiantes 🐍 Curso GRATIS desde cero | Desde Afi Escuela de Finanzas ponemos a disposición el curso gratuito de Python impartido por Javier Calderón, Consultor del Área de Finanzas Cuantitativas de Afi.  | Video Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=BrJE-4euNn0) |
-| Aprende python desde cero. Primeros pasos. |  De programador para programadores: empieza en el mundo de Python con este curso | Curso en udemy | Español | Sí | [Link](https://www.udemy.com/course/aprende-python-desde-cero-primeros-pasos/?referralCode=285241350DB6117A362D) |
-| Analyzing Data with Python |  In this course, you will learn how to analyze data in Python using multi-dimensional arrays in numpy, manipulate DataFrames in pandas, use SciPy library of mathematical routines, and perform machine learning using scikit-learn! | Curso online | Inglés | Sí | [Link](https://www.edx.org/course/analyzing-data-with-python) |
-| Aprende a Programar en Python Desde Cero |  Curso Completo Gratis de 4.5+ Horas | Curso online | Español | Sí | [Link](https://youtu.be/DLikpfc64cA) |
-| Python Django Crash Course 2021 | curso con conceptos básicos que le ayudarán a aprender y dominar Django para un desarrollo web rápido | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=IHTP8-KskcQ) |
-| Python FastAPI Web Framework Tuturial | En este tutorial, damos un primer vistazo a la construcción de una API con FastAPI | Tururial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=NH4VZaP3_9s&list=PLOLrQ9Pn6cay_BE9pz1djcqW0-p2QiRUx) |
+| Python Programming | Documentación con tutoriales de Python | Documentación | Inglés | Sí | [Link](https://pythonprogramming.net/) |
+| Python Tricks: A buffet of awesome Python features (by Dan Bader)| Buen libro de referencia para Python, nivel intermedio | Libro | Inglés | No |[Link](https://realpython.com/products/python-tricks-book/) |
+| Tutorial de Python en español | Tutorial oficial de Python | Tutorial | Español | Sí | [Link](https://tutorial.python.org.ar/en/latest/) |
+| W3schools Python Tutorial | Documentación con ejemplos de Python | Documentación | Inglés | Sí | [Link](https://www.w3schools.com/python/default.asp) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -415,12 +415,12 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | 24 days of Rust | Aprender Rust en 24 días | Documentación | Inglés | Sí | [Link](http://zsiciarz.github.io/24daysofrust/book/vol1/) |
 | Amethyst Documentation | Documentación para aprender a crear videojuegos con Rust | Documentación | Inglés | Sí | [Link](https://book.amethyst.rs/book/stable/) |
-| Rustlings | Reposiorio de ejercicios de Rust | Repositorio | Inglés | Sí | [Link](https://github.com/rust-lang/rustlings) |
 | Rust Crash Course | Tutorial intensivo de Rust | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=zF34dRivLOw&ab_channel=TraversyMedia) |
 | Rust Docs | Documentación oficial de Rust | Documentación | Español | Sí | [Link](https://www.rust-lang.org/es/learn) |
 | Rust en español | Lista de reproducción para aprender Rust | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=KOABboz7PBs&list=PLojDVPvSO1DjYj8bMcMOU3KzLbRww-3Eb&ab_channel=robertohuertasm) |
 | Rust Programming Tutorial | Tutorial para aprender Rust | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&ab_channel=dcode) |
 | Rust Tutorial | Documentación para aprender Rust | Documentación | Inglés | Sí | [Link](http://aml3.github.io/RustTutorial/html/toc.html) |
+| Rustlings | Reposiorio de ejercicios de Rust | Repositorio | Inglés | Sí | [Link](https://github.com/rust-lang/rustlings) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -429,12 +429,12 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
 | Aprende Scala | Lista de reproducción para aprender Scala | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=t6pl0gacuX0&list=PLTd5ehIj0goOlRPRfwGGu9Bc2ap4bt7wR&ab_channel=makigas%3Atutorialesdeprogramaci%C3%B3n) |
-| Tutorial de Scala | Documentación de Scala con ejemplos simples | Tutorial | Español | Sí | [Link](https://www.diegocalvo.es/tutorial-de-scala/) |
 | Rock the JVM | Canal de Youtube especializado en Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/c/RocktheJVM/videos) |
 | Scala at Light Speed | Tutoriales para dominar Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=-8V6bMjThNo&list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM&ab_channel=RocktheJVM) |
 | Scala Docs | Documentación oficial de Scala | Documentación | Inglés | Sí | [Link](https://docs.scala-lang.org/?_ga=2.153216184.1809149693.1618661551-1561653874.1618661551) |
 | Scala Tutorial | Tutorial para aprender Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=DzFt0YkZo8M&ab_channel=DerekBanas) |
 | Scala Tutorial Full Course | Tutorial para principiantes de Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=i9o70PMqMGY&ab_channel=Telusko) |
+| Tutorial de Scala | Documentación de Scala con ejemplos simples | Tutorial | Español | Sí | [Link](https://www.diegocalvo.es/tutorial-de-scala/) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -442,16 +442,16 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
-| Solidity Docs | Documentación oficial de Solidity | Documentación | Inglés | Sí | [Link](https://docs.soliditylang.org/en/v0.8.9/) |
-| Repositorio Solidity | Repositorio oficial de Solidity | Repositorio | Inglés | Sí | [Link](https://github.com/ethereum/solidity/blob/v0.8.9/docs/index.rst) |
-| Solidity Tutorial | Canal de Youtube especializado en Solidity | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=ipwxYa-F1uY&ab_channel=freeCodeCamp.org) |
-| Solidity en 2 minutos | Explicación básica de solidity en 2 minutos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3i203iTmcFc&ab_channel=Cryptografi) |
-| Solidity CRUD, Tu primer Smart Contract en Remix IDE | Tutorial para realizar un CRUD con Solidity  | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=JP-dzoDmJFw&ab_channel=FaztCode) |
-| Solidity Tutorial | Array, Mapping y Struct en Solidity | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=_PbU9TE_7bY&ab_channel=AlbertoLasa-Blockchain) |
-| Solidity Tutorial Dapp desde cero | Como crear una Dapp desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=t10BiFG9Dfc&ab_channel=AlbertoLasa-Blockchain) |
-| Solidity Tutorial | Tutorial básico de | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=UujjTmkjWI8&ab_channel=NicolasPalacios) |
 | Aprendiendo Solidity | Tutorial básico para aprender Solidity | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg&ab_channel=WillitScale) |
 | Foro Solidity | Foro oficial de Solidity | Foro | Inglés | Sí | [Link](https://forum.soliditylang.org/) |
+| Repositorio Solidity | Repositorio oficial de Solidity | Repositorio | Inglés | Sí | [Link](https://github.com/ethereum/solidity/blob/v0.8.9/docs/index.rst) |
+| Solidity CRUD, Tu primer Smart Contract en Remix IDE | Tutorial para realizar un CRUD con Solidity  | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=JP-dzoDmJFw&ab_channel=FaztCode) |
+| Solidity Docs | Documentación oficial de Solidity | Documentación | Inglés | Sí | [Link](https://docs.soliditylang.org/en/v0.8.9/) |
+| Solidity en 2 minutos | Explicación básica de solidity en 2 minutos | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=3i203iTmcFc&ab_channel=Cryptografi) |
+| Solidity Tutorial | Canal de Youtube especializado en Solidity | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=ipwxYa-F1uY&ab_channel=freeCodeCamp.org) |
+| Solidity Tutorial | Array, Mapping y Struct en Solidity | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=_PbU9TE_7bY&ab_channel=AlbertoLasa-Blockchain) |
+| Solidity Tutorial | Tutorial básico de | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=UujjTmkjWI8&ab_channel=NicolasPalacios) |
+| Solidity Tutorial Dapp desde cero | Como crear una Dapp desde cero | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=t10BiFG9Dfc&ab_channel=AlbertoLasa-Blockchain) |
 
 **[⬆ Volver al índice](#índice)**
 
@@ -503,13 +503,13 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 
 |Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
+| Big O Cheatsheet | Cheatsheet con las complejidades de los algoritmos y estructuras de datos más usados | Blog | Inglés | Sí | [Link](https://www.bigocheatsheet.com/) |
 | Cracking the coding interview | Libro con todo lo que necesitas saber de las entrevistas técnicas | Libro | Inglés | Sí | [Link](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) |
-| Mock coding interview | Ejemplos de entrevistas técnicas | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLJmKHshC7qJlO8VC3e9J8Z5WH42hALV6x) |
 | Leetcode | Página web en la que puedes prácticar para entrevistas técnicas | Blog | Inglés | Sí | [Link](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) |
+| Mock coding interview | Ejemplos de entrevistas técnicas | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLJmKHshC7qJlO8VC3e9J8Z5WH42hALV6x) |
 | Preguntas de entrevistas técnicas | Recopilación de videos de preguntas de entrevistas técnicas | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI) |
 | Respuestas de LeetCode | Recopilación de videos en los que se explican soluciones de LeetCode paso a paso | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-) |
 | Respuestas de LeetCode | Recopilación de videos en los que se explican soluciones de LeetCode paso a paso | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-) |
-| Big O Cheatsheet | Cheatsheet con las complejidades de los algoritmos y estructuras de datos más usados | Blog | Inglés | Sí | [Link](https://www.bigocheatsheet.com/) |
 | Práctica entrevistas con más personas | Sitio web en el que puedes prácticar entrevistas con un amigo o con personas online | Blog | Inglés | Sí | [Link](https://www.pramp.com/) |
 
 
@@ -632,6 +632,4 @@ Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar 
 * [IvySaskia](https://github.com/IvySaskia): Contribuidor.
 * [Rafael de Luna](https://github.com/RDLL): Contribuidor.
 * [joelcede](https://github.com/joelcede): Contribuidor.
-
-
 
