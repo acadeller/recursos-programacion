@@ -431,11 +431,11 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Aprende Scala | Lista de reproducción para aprender Scala | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=t6pl0gacuX0&list=PLTd5ehIj0goOlRPRfwGGu9Bc2ap4bt7wR&ab_channel=makigas%3Atutorialesdeprogramaci%C3%B3n) |
 | Rock the JVM | Canal de Youtube especializado en Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/c/RocktheJVM/videos) |
 | Scala at Light Speed | Tutoriales para dominar Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=-8V6bMjThNo&list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM&ab_channel=RocktheJVM) |
+| Scala Crash Course | Blog con conceptos básicos de Scala | Tutorial | Inglés | Sí | [Link](https://blog.brakmic.com/scala-crash-course-part-1/) |
 | Scala Docs | Documentación oficial de Scala | Documentación | Inglés | Sí | [Link](https://docs.scala-lang.org/?_ga=2.153216184.1809149693.1618661551-1561653874.1618661551) |
 | Scala Tutorial | Tutorial para aprender Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=DzFt0YkZo8M&ab_channel=DerekBanas) |
 | Scala Tutorial Full Course | Tutorial para principiantes de Scala | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=i9o70PMqMGY&ab_channel=Telusko) |
 | Tutorial de Scala | Documentación de Scala con ejemplos simples | Tutorial | Español | Sí | [Link](https://www.diegocalvo.es/tutorial-de-scala/) |
-| Scala Crash Course | Blog con conceptos básicos de Scala | Tutorial | Inglés | Sí | [Link](https://blog.brakmic.com/scala-crash-course-part-1/) |
 
 **[⬆ Volver al índice](#índice)**
 
