@@ -633,4 +633,5 @@ Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar 
 * [Rafael de Luna](https://github.com/RDLL): Contribuidor.
 * [joelcede](https://github.com/joelcede): Contribuidor.
 * [rapejim](https://github.com/rapejim): Contribuidor.
+* [JuliKM](https://github.com/JuliKM): Contribuidor.
 
