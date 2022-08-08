@@ -103,6 +103,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Learn C++ | Documentación de C++ para aprender el lenguaje | Documentación | Inglés | Sí | [Link](https://www.learncpp.com/) |
 | Programación en C++ | Aprende programación en C++| Tutorial | Español | Sí | [Link](https://www.youtube.com/playlist?list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh) |
 | SoloLearn C++ | Curso para aprender C++ con solo Sololearn | Curso | Inglés | Sí | [Link](https://www.sololearn.com/learning/1051) |
+| Con Clase | Aprende a programar en C++ | Curso | Español | Sí | [Link](https://conclase.net/c) |
 
 **[⬆ Volver al índice](#índice)**
 
