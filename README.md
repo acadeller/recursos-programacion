@@ -50,6 +50,7 @@ Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo d
 * [CSS](#css)
 * [Dart](#dart)
 * [Entrevistas Técnicas](#entrevistas-técnicas)
+* [Git](#git)
 * [Go](#go)
 * [Herramientas](#herramientas)
 * [HTML](#html)
@@ -184,6 +185,21 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 **[⬆ Volver al índice](#índice)**
 
 
+## Git
+
+Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
+|---|---|---|---|---|---|
+| Documentación Oficial de Git | Documentación Oficial de Git | Documentación | Inglés | Sí | [Link](https://www.git-scm.com/doc) |
+| Git Immersión en Español | Git immersión es un tour guiado que lo lleva por los fundamentos de git | Immersión | Español | Sí | [Link](https://esparta.github.io/gitimmersion-spanish/) |
+| Los Apuntes de Majo(GIT) | Cheat Sheet sobre los comandos básicos de GIT y workflows | Cheat Sheet | Español | Sí | [Link](https://drive.google.com/file/d/1sHgKrrea1-HpityOEYqFLjRdaum85CnW/view) |
+| Git. La guía simple | Una guía sencilla para comenzar con git sin complicaciones | Cheat Sheet | Español | Sí | [Link](https://rogerdudler.github.io/git-guide/index.es.html) |
+| Gitmagic | Guía para comprender el control de versiones de Git. | Libro | Español | Sí | [Link](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/) |
+| Pro Git | El libro completo de Pro Git, escrito por Scott Chacon y Ben Straub | Libro | Español | Sí | [Link](https://git-scm.com/book/es/v2) |
+| Git Cheat Sheets | Hojas de referencia que cubren los comandos Git, sus características, las migraciones SVN y bash| Libro | Disponible en varios idiomas | Sí | [Link](https://training.github.com/) |
+
+
+
+**[⬆ Volver al índice](#índice)**
 ## Go
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
