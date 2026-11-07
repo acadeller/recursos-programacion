@@ -214,6 +214,7 @@ Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 | Golang Tutorial for Beginners | Tutorial para principiantes de Go | Tutorial | Inglés | Sí | [Link](https://www.youtube.com/watch?v=YS4e4q9oBaU&ab_channel=freeCodeCamp.org) |
 | Learn Go | Documentación con tutoriales de Go | Documentación | Inglés | Sí | [Link](https://www.learn-golang.org/) |
 | REST API CRUD con go | Tutorial para aprender REST API con Go | Tutorial | Español | Sí | [Link](https://www.youtube.com/watch?v=pQAV8A9KLwk&ab_channel=FaztCode) |
+| kaijuconverter-go | SDK y cliente CLI en Go para conversión multiformato de archivos | Librería | Inglés | Sí | [Link](https://github.com/PabloCirre/kaijuconverter-go) |
 
 **[⬆ Volver al índice](#índice)**
 
